@@ -62,4 +62,11 @@ function showConsent() {
 let choice: string | null = null;
 try { choice = localStorage.getItem(CHOICE_KEY); } catch {}
 if (choice === 'granted') loadAnalytics();
-else if (choice !== 'denied') showConsent();
+else if (choice !== 'denied') {
+  // On phones the banner would cover the first screen and its call to action,
+  // so it appears once the visitor starts scrolling.
+  if (matchMedia('(max-width: 650px)').matches && scrollY < 40) {
+    const onScroll = () => { if (scrollY > 40) { removeEventListener('scroll', onScroll); showConsent(); } };
+    addEventListener('scroll', onScroll, { passive: true });
+  } else showConsent();
+}

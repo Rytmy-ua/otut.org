@@ -82,9 +82,6 @@ const jsonLd = route === '/' ? JSON.stringify({ '@context': 'https://schema.org'
   </header>
   <slot />
   <footer set:html={ui.footer} />
-  <nav class="mobile-bottom-nav" aria-label="Mobile navigation">
-    {nav.map((n) => <a href={localize(n.href, lang)} aria-current={n.href === section ? 'page' : undefined}>{n.label}</a>)}
-  </nav>
   <template id="cookie-copy" data-text={ui.cookie.text} data-accept={ui.cookie.accept} data-decline={ui.cookie.decline}></template>
   <script src="../scripts/site.ts"></script>
 </body>

@@ -7,15 +7,15 @@ h1, h2, h3 { overflow-wrap: break-word; hyphens: auto; }
 .festival-news__poster, .festival-news__image { max-width: 100%; }
 body { overflow-x: clip; }
 
-/* Mobile bottom navigation has 4 items (About, Projects, News, Contact), not 3. */
+/* The header menu is the only menu on phones (the legacy bottom bar was disabled
+   in CSS); free the space reserved for it. */
 @media (max-width: 650px) {
-  .mobile-bottom-nav { grid-template-columns: repeat(4, 1fr); }
-  .mobile-bottom-nav a { font-size: .74rem; }
+  body { padding-bottom: 0; }
 
-  /* Cookie banner: compact strip instead of a block that covers the main call to action. */
-  .analytics-consent { bottom: 82px; padding: 10px 12px; gap: 8px; }
-  .analytics-consent p { font-size: .78rem; line-height: 1.3; }
-  .analytics-consent button { min-height: 34px; padding: 6px 10px; }
+  /* Cookie banner: a slim strip at the bottom instead of a block over the call to action. */
+  .analytics-consent { bottom: 8px; left: 8px; right: 8px; padding: 8px 10px; gap: 6px; box-shadow: 3px 3px 0 var(--plum); }
+  .analytics-consent p { font-size: .72rem; line-height: 1.25; }
+  .analytics-consent button { min-height: 32px; padding: 5px 8px; font-size: .64rem; }
 }
 
 /* 404 page */
