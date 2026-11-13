@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-17",
+  "variant": "sky",
+  "cover": {
+    "src": "/assets/november-three-paths.svg",
+    "width": 1200,
+    "height": 675,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "Three international opportunities for artists and cultural professionals",
+    "uk": "Три міжнародні можливості для митців і культурних діячів",
+    "nl": "Drie internationale kansen voor kunstenaars en cultuurprofessionals",
+    "fr": "Trois opportunités internationales pour artistes et professionnels de la culture",
+    "es": "Tres oportunidades internacionales para artistas y profesionales de la cultura",
+    "de": "Drei internationale Chancen für Kunst- und Kulturschaffende",
+    "it": "Tre opportunità internazionali per artisti e professionisti della cultura",
+    "pl": "Trzy międzynarodowe możliwości dla artystów i osób z sektora kultury",
+    "pt": "Três oportunidades internacionais para artistas e profissionais da cultura",
+    "cs": "Tři mezinárodní příležitosti pro umělce a kulturní profesionály",
+    "ro": "Trei oportunități internaționale pentru artiști și profesioniști culturali"
+  },
+  "description": {
+    "en": "Three calls with early November deadlines: a media art residency, festival partnerships and residencies for Ukrainian artists in Finland.",
+    "uk": "Три програми з дедлайнами на початку листопада: резиденція для медіамистецтва, фестивальне партнерство та резиденції для українських митців у Фінляндії.",
+    "nl": "Drie oproepen met deadlines begin november: een mediakunstresidentie, festivalsamenwerking en residenties voor Oekraïense kunstenaars in Finland.",
+    "fr": "Trois appels à échéance début novembre : résidence en arts numériques, partenariat entre festivals et résidences pour artistes ukrainiens en Finlande.",
+    "es": "Tres convocatorias con plazos a principios de noviembre: residencia de arte multimedia, colaboración entre festivales y residencias para artistas ucranianos en…",
+    "de": "Drei Ausschreibungen mit Fristen Anfang November: Medienkunstresidenz, Festivalpartnerschaften und Residenzen für ukrainische Kunstschaffende in Finnland.",
+    "it": "Tre bandi con scadenze a inizio novembre: residenza per la media art, partnership tra festival e residenze per artisti ucraini in Finlandia.",
+    "pl": "Trzy nabory z terminami na początku listopada: rezydencja sztuki mediów, współpraca festiwali i rezydencje dla ukraińskich artystów w Finlandii.",
+    "pt": "Três convocatórias com prazos no início de novembro: residência de arte dos media, parceria entre festivais e residências para artistas ucranianos na Finlândia.",
+    "cs": "Tři výzvy s uzávěrkami začátkem listopadu: rezidence pro mediální umění, festivalová partnerství a rezidence pro ukrajinské umělce ve Finsku.",
+    "ro": "Trei apeluri cu termene la început de noiembrie: rezidență de artă media, parteneriate între festivaluri și rezidențe pentru artiști ucraineni în Finlanda."
+  },
+  "card": {
+    "en": {
+      "label": "OPEN CALLS",
+      "title": "Three international opportunities for artists and cultural professionals",
+      "alt": "Three paths toward international artistic collaboration"
+    },
+    "uk": {
+      "label": "ВІДКРИТІ КОНКУРСИ",
+      "title": "Три міжнародні можливості для митців і культурних діячів",
+      "alt": "Три шляхи до міжнародної мистецької співпраці"
+    },
+    "nl": {
+      "label": "OPEN OPROEPEN",
+      "title": "Drie internationale kansen voor kunstenaars en cultuurprofessionals",
+      "alt": "Drie routes naar internationale artistieke samenwerking"
+    },
+    "fr": {
+      "label": "APPELS À CANDIDATURES",
+      "title": "Trois opportunités internationales pour artistes et professionnels de la culture",
+      "alt": "Trois voies vers la collaboration artistique internationale"
+    },
+    "es": {
+      "label": "CONVOCATORIAS",
+      "title": "Tres oportunidades internacionales para artistas y profesionales de la cultura",
+      "alt": "Tres caminos hacia la colaboración artística internacional"
+    },
+    "de": {
+      "label": "AUSSCHREIBUNGEN",
+      "title": "Drei internationale Chancen für Kunst- und Kulturschaffende",
+      "alt": "Drei Wege zur internationalen künstlerischen Zusammenarbeit"
+    },
+    "it": {
+      "label": "BANDI APERTI",
+      "title": "Tre opportunità internazionali per artisti e professionisti della cultura",
+      "alt": "Tre percorsi verso la collaborazione artistica internazionale"
+    },
+    "pl": {
+      "label": "OTWARTE NABORY",
+      "title": "Trzy międzynarodowe możliwości dla artystów i osób z sektora kultury",
+      "alt": "Trzy drogi do międzynarodowej współpracy artystycznej"
+    },
+    "pt": {
+      "label": "CANDIDATURAS ABERTAS",
+      "title": "Três oportunidades internacionais para artistas e profissionais da cultura",
+      "alt": "Três caminhos para a colaboração artística internacional"
+    },
+    "cs": {
+      "label": "OTEVŘENÉ VÝZVY",
+      "title": "Tři mezinárodní příležitosti pro umělce a kulturní profesionály",
+      "alt": "Tři cesty k mezinárodní umělecké spolupráci"
+    },
+    "ro": {
+      "label": "APELURI DESCHISE",
+      "title": "Trei oportunități internaționale pentru artiști și profesioniști culturali",
+      "alt": "Trei căi spre colaborarea artistică internațională"
+    }
+  }
+}

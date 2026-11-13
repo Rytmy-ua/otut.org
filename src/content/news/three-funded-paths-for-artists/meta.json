@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-15",
+  "variant": "sky",
+  "cover": {
+    "src": "/assets/news-funded-paths-800x450.webp",
+    "width": 800,
+    "height": 450,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "Three funded paths for individual artists.",
+    "uk": "Три профінансовані маршрути для індивідуальних митців.",
+    "nl": "Drie gefinancierde routes voor individuele kunstenaars.",
+    "fr": "Trois parcours financés pour artistes individuels.",
+    "es": "Tres caminos financiados para artistas individuales.",
+    "de": "Drei finanzierte Wege für einzelne Kunstschaffende.",
+    "it": "Tre percorsi finanziati per artisti individuali.",
+    "pl": "Trzy finansowane ścieżki dla indywidualnych artystów.",
+    "pt": "Três percursos financiados para artistas individuais.",
+    "cs": "Tři financované cesty pro jednotlivé umělce.",
+    "ro": "Trei trasee finanțate pentru artiști individuali."
+  },
+  "description": {
+    "en": "OTUT’s current selection: three international calls for artists and artistic researchers who need time, resources and a serious context for developing new work.",
+    "uk": "Актуальна добірка OTUT: три міжнародні конкурси для митців і мистецьких дослідників, яким потрібні час, ресурси та серйозний контекст для розвитку нової роботи.",
+    "nl": "De actuele selectie van OTUT: drie internationale oproepen voor kunstenaars en artistiek onderzoekers die tijd, middelen en een serieuze context nodig hebben…",
+    "fr": "La sélection actuelle d’OTUT : trois appels internationaux pour les artistes et chercheurs en art qui ont besoin de temps, de ressources et d’un contexte…",
+    "es": "La selección actual de OTUT: tres convocatorias internacionales para artistas e investigadores artísticos que necesitan tiempo, recursos y un contexto sólido…",
+    "de": "Die aktuelle Auswahl von OTUT: drei internationale Ausschreibungen für Kunstschaffende und künstlerisch Forschende, die Zeit, Ressourcen und einen ernsthaften…",
+    "it": "La selezione attuale di OTUT: tre bandi internazionali per artisti e ricercatori artistici che hanno bisogno di tempo, risorse e un contesto serio per…",
+    "pl": "Aktualny wybór OTUT: trzy międzynarodowe nabory dla artystów i badaczy artystycznych, którzy potrzebują czasu, zasobów i poważnego kontekstu do rozwoju nowej…",
+    "pt": "A seleção atual da OTUT: três convocatórias internacionais para artistas e investigadores artísticos que precisam de tempo, recursos e um contexto sólido para…",
+    "cs": "Aktuální výběr OTUT: tři mezinárodní výzvy pro umělce a umělecké výzkumníky, kteří potřebují čas, zdroje a kvalitní kontext pro rozvoj nové práce.",
+    "ro": "Selecția actuală OTUT: trei apeluri internaționale pentru artiști și cercetători artistici care au nevoie de timp, resurse și un context serios pentru a…"
+  },
+  "card": {
+    "en": {
+      "label": "OPPORTUNITIES",
+      "title": "Three funded paths<br><i>for individual artists.</i>",
+      "alt": "OTUT funded paths for individual artists"
+    },
+    "uk": {
+      "label": "МОЖЛИВОСТІ",
+      "title": "Три профінансовані маршрути<br><i>для індивідуальних митців.</i>",
+      "alt": "OTUT funded paths for individual artists"
+    },
+    "nl": {
+      "label": "KANSEN",
+      "title": "Drie gefinancierde routes<br><i>voor individuele kunstenaars.</i>",
+      "alt": "OTUT funded paths for individual artists"
+    },
+    "fr": {
+      "label": "OPPORTUNITÉS",
+      "title": "Trois parcours financés<br><i>pour artistes individuels.</i>",
+      "alt": "OTUT funded paths for individual artists"
+    },
+    "es": {
+      "label": "OPORTUNIDADES",
+      "title": "Tres caminos financiados<br><i>para artistas individuales.</i>",
+      "alt": "OTUT funded paths for individual artists"
+    },
+    "de": {
+      "label": "MÖGLICHKEITEN",
+      "title": "Drei finanzierte Wege<br><i>für einzelne Kunstschaffende.</i>",
+      "alt": "OTUT funded paths for individual artists"
+    },
+    "it": {
+      "label": "OPPORTUNITÀ",
+      "title": "Tre percorsi finanziati<br><i>per artisti individuali.</i>",
+      "alt": "OTUT funded paths for individual artists"
+    },
+    "pl": {
+      "label": "MOŻLIWOŚCI",
+      "title": "Trzy finansowane ścieżki<br><i>dla indywidualnych artystów.</i>",
+      "alt": "OTUT funded paths for individual artists"
+    },
+    "pt": {
+      "label": "OPORTUNIDADES",
+      "title": "Três percursos financiados<br><i>para artistas individuais.</i>",
+      "alt": "OTUT funded paths for individual artists"
+    },
+    "cs": {
+      "label": "PŘÍLEŽITOSTI",
+      "title": "Tři financované cesty<br><i>pro jednotlivé umělce.</i>",
+      "alt": "OTUT funded paths for individual artists"
+    },
+    "ro": {
+      "label": "OPORTUNITĂȚI",
+      "title": "Trei trasee finanțate<br><i>pentru artiști individuali.</i>",
+      "alt": "OTUT funded paths for individual artists"
+    }
+  }
+}

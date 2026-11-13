@@ -1,0 +1,49 @@
+---
+import Base from '../layouts/Base.astro';
+import { entries, news, LANGS, DEFAULT_LANG, localize, pick, type Lang, type NewsMeta, type Entry } from '../lib/content';
+
+export function getStaticPaths() {
+  return entries.flatMap((entry) =>
+    LANGS.map((lang) => {
+      const url = localize(entry.route, lang);
+      return { params: { path: url === '/' ? undefined : url.slice(1) }, props: { entry, lang } };
+    }),
+  );
+}
+
+const { entry, lang } = Astro.props as { entry: Entry; lang: Lang };
+const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+const ddmmyyyy = (iso: string) => iso.split('-').reverse().join('.');
+
+function newsList(): string {
+  return '<div class="news-index__list">' + news.map(({ slug, meta }, i) => {
+    const card = pick(meta.card, lang);
+    const c = meta.cover;
+    return `<a class="news-index__item news-index__item--${meta.variant}" href="${localize('/news/' + slug, lang)}">`
+      + `<figure class="news-index__visual"${c.figureStyle ? ` style="${esc(c.figureStyle)}"` : ''}>`
+      + `<img src="${c.src}" alt="${esc(card.alt)}" width="${c.width}" height="${c.height}"${c.imgStyle ? ` style="${esc(c.imgStyle)}"` : ''}${i > 1 ? ' loading="lazy" decoding="async"' : ''}></figure>`
+      + `<div class="news-index__copy"><div class="news-index__meta"><time datetime="${meta.date}">${ddmmyyyy(meta.date)}</time><span>${esc(card.label)}</span></div>`
+      + `<h2>${card.title}</h2><span class="news-index__arrow" aria-hidden="true">↗</span></div></a>`;
+  }).join('') + '</div>';
+}
+
+let html = entry.html(lang);
+if (entry.route === '/news') html = html.replace('</main>', newsList() + '</main>');
+
+const isNews = entry.kind === 'news';
+const title = isNews ? `${pick(entry.meta.title, lang)} — OTUT` : pick(entry.meta.title, lang);
+// Social networks do not render SVG previews; those fall back to the logo.
+const cover = isNews ? (entry.meta as NewsMeta).cover.src : '';
+const ogImage = cover && !cover.endsWith('.svg') ? cover : undefined;
+---
+<Base
+  lang={lang}
+  route={entry.route}
+  title={title}
+  description={pick(entry.meta.description, lang)}
+  bodyClass={entry.bodyClass}
+  ogType={isNews ? 'article' : 'website'}
+  ogImage={ogImage}
+>
+  <Fragment set:html={html} />
+</Base>

@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-15",
+  "variant": "plum",
+  "cover": {
+    "src": "/assets/services-cover.webp",
+    "width": 800,
+    "height": 1000,
+    "figureStyle": "background:#f5efe9",
+    "imgStyle": "object-fit:contain"
+  },
+  "title": {
+    "en": "OTUT services — from idea to realisation",
+    "uk": "Послуги OTUT — від ідеї до реалізації",
+    "nl": "Diensten van OTUT — van idee tot uitvoering",
+    "fr": "Services OTUT — de l’idée à la réalisation",
+    "es": "Servicios de OTUT — de la idea a la realización",
+    "de": "OTUT-Angebote — von der Idee zur Umsetzung",
+    "it": "Servizi OTUT — dall’idea alla realizzazione",
+    "pl": "Usługi OTUT — od pomysłu do realizacji",
+    "pt": "Serviços OTUT — da ideia à realização",
+    "cs": "Služby OTUT — od nápadu k realizaci",
+    "ro": "Servicii OTUT — de la idee la realizare"
+  },
+  "description": {
+    "en": "A performance, workshop, community event or international collaboration needs practical steps: a clear proposal, partners, a budget and coordination.",
+    "uk": "Вистава, майстер-клас, подія для спільноти чи міжнародна співпраця — кожен задум потребує конкретних кроків: опису, партнерів, бюджету й організації.",
+    "nl": "Een voorstelling, workshop, buurtactiviteit of internationale samenwerking vraagt om concrete stappen: een helder voorstel, partners, een begroting en…",
+    "fr": "Un spectacle, un atelier, un événement pour une communauté ou une collaboration internationale nécessite des étapes concrètes : une proposition claire, des…",
+    "es": "Un espectáculo, un taller, un evento comunitario o una colaboración internacional necesita pasos concretos: una propuesta clara, socios, un presupuesto y…",
+    "de": "Eine Aufführung, ein Workshop, eine Veranstaltung für eine Gemeinschaft oder eine internationale Zusammenarbeit braucht konkrete Schritte: ein klares Konzept,…",
+    "it": "Uno spettacolo, un laboratorio, un evento per la comunità o una collaborazione internazionale richiede passi concreti: una proposta chiara, partner, un budget…",
+    "pl": "Spektakl, warsztat, wydarzenie dla społeczności czy współpraca międzynarodowa wymagają konkretnych kroków: jasnej propozycji, partnerów, budżetu i koordynacji.",
+    "pt": "Um espetáculo, uma oficina, um evento comunitário ou uma colaboração internacional exige passos concretos: uma proposta clara, parceiros, um orçamento e…",
+    "cs": "Představení, workshop, komunitní akce nebo mezinárodní spolupráce potřebují konkrétní kroky: jasný návrh, partnery, rozpočet a koordinaci.",
+    "ro": "Un spectacol, un atelier, un eveniment comunitar sau o colaborare internațională are nevoie de pași concreți: o propunere clară, parteneri, un buget și…"
+  },
+  "card": {
+    "en": {
+      "label": "OTUT services",
+      "title": "OTUT services — from idea to realisation",
+      "alt": "OTUT — From idea to realisation. Cultural projects, partnerships and events."
+    },
+    "uk": {
+      "label": "Послуги OTUT",
+      "title": "Послуги OTUT — від ідеї до реалізації",
+      "alt": "OTUT — від ідеї до реалізації. Культурні проєкти, партнерства та події."
+    },
+    "nl": {
+      "label": "Diensten van OTUT",
+      "title": "Diensten van OTUT — van idee tot uitvoering",
+      "alt": "OTUT — van idee tot uitvoering. Culturele projecten, partnerschappen en evenementen."
+    },
+    "fr": {
+      "label": "Services OTUT",
+      "title": "Services OTUT — de l’idée à la réalisation",
+      "alt": "OTUT — de l’idée à la réalisation. Projets culturels, partenariats et événements."
+    },
+    "es": {
+      "label": "Servicios de OTUT",
+      "title": "Servicios de OTUT — de la idea a la realización",
+      "alt": "OTUT — de la idea a la realización. Proyectos culturales, colaboraciones y eventos."
+    },
+    "de": {
+      "label": "OTUT-Angebote",
+      "title": "OTUT-Angebote — von der Idee zur Umsetzung",
+      "alt": "OTUT — von der Idee zur Umsetzung. Kulturprojekte, Partnerschaften und Veranstaltungen."
+    },
+    "it": {
+      "label": "Servizi OTUT",
+      "title": "Servizi OTUT — dall’idea alla realizzazione",
+      "alt": "OTUT — dall’idea alla realizzazione. Progetti culturali, partenariati ed eventi."
+    },
+    "pl": {
+      "label": "Usługi OTUT",
+      "title": "Usługi OTUT — od pomysłu do realizacji",
+      "alt": "OTUT — od pomysłu do realizacji. Projekty kulturalne, partnerstwa i wydarzenia."
+    },
+    "pt": {
+      "label": "Serviços OTUT",
+      "title": "Serviços OTUT — da ideia à realização",
+      "alt": "OTUT — da ideia à realização. Projetos culturais, parcerias e eventos."
+    },
+    "cs": {
+      "label": "Služby OTUT",
+      "title": "Služby OTUT — od nápadu k realizaci",
+      "alt": "OTUT — od nápadu k realizaci. Kulturní projekty, partnerství a akce."
+    },
+    "ro": {
+      "label": "Servicii OTUT",
+      "title": "Servicii OTUT — de la idee la realizare",
+      "alt": "OTUT — de la idee la realizare. Proiecte culturale, parteneriate și evenimente."
+    }
+  }
+}

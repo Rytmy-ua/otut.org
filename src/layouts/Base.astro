@@ -1,0 +1,91 @@
+---
+import '../styles/legacy.css';
+import '../styles/fixes.css';
+import { LANGS, DEFAULT_LANG, languages, localize, t, type Lang } from '../lib/content';
+
+interface Props {
+  lang: Lang;
+  route: string;          // language-neutral route, e.g. /news/otut-is-live
+  title: string;
+  description: string;
+  bodyClass?: string;
+  ogType?: 'website' | 'article';
+  ogImage?: string;
+  noindex?: boolean;
+}
+const { lang, route, title, description, bodyClass = '', ogType = 'website', ogImage = '/assets/logo-authentic.png', noindex = false } = Astro.props;
+const site = 'https://otut.org';
+const ui = t(lang);
+const canonical = site + localize(route, lang);
+const section = route === '/' ? '' : '/' + route.split('/')[1];
+const nav = [
+  { href: '/about', label: ui.nav.about },
+  { href: '/projects', label: ui.nav.projects },
+  { href: '/news', label: ui.nav.news },
+  { href: '/contact', label: ui.nav.contact },
+];
+const ogLocale: Record<string, string> = { en: 'en_GB', uk: 'uk_UA', nl: 'nl_NL', fr: 'fr_FR', es: 'es_ES', de: 'de_DE', it: 'it_IT', pl: 'pl_PL', pt: 'pt_PT', cs: 'cs_CZ', ro: 'ro_RO' };
+const jsonLd = route === '/' ? JSON.stringify({ '@context': 'https://schema.org', '@type': 'Organization', name: 'OTUT — Joy of Creation', url: site + '/', logo: site + '/assets/logo-authentic.png', email: 'info@otut.org', description: 'International platform for developing artistic and cultural projects.' }) : null;
+---
+<!doctype html>
+<html lang={lang}>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{title}</title>
+  <meta name="description" content={description}>
+  <meta name="robots" content={noindex ? 'noindex' : 'index,follow,max-image-preview:large'}>
+  <meta name="google-site-verification" content="-97bYDdIS0AKncnr-vtuEeXbE3lVi5PvOraM7qLCR_U">
+  {!noindex && <link rel="canonical" href={canonical}>}
+  {!noindex && LANGS.map((l) => <link rel="alternate" hreflang={l} href={site + localize(route, l)}>)}
+  {!noindex && <link rel="alternate" hreflang="x-default" href={site + localize(route, DEFAULT_LANG)}>}
+  <meta property="og:type" content={ogType}>
+  <meta property="og:site_name" content="OTUT — Joy of Creation">
+  <meta property="og:title" content={title}>
+  <meta property="og:description" content={description}>
+  <meta property="og:url" content={canonical}>
+  <meta property="og:image" content={site + ogImage}>
+  <meta property="og:locale" content={ogLocale[lang]}>
+  <meta name="twitter:card" content="summary_large_image">
+  {jsonLd && <script type="application/ld+json" set:html={jsonLd} />}
+  <meta name="theme-color" content="#e6ea3a">
+  <meta name="apple-mobile-web-app-title" content="OTUT">
+  <link rel="icon" href="/assets/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <!-- Old links used ?lang=xx; send them to the real language URL. -->
+  <script is:inline define:vars={{ urls: Object.fromEntries(LANGS.map((l) => [l, localize(route, l)])), lang, auto: !noindex }}>
+    try {
+      var q = new URLSearchParams(location.search).get('lang');
+      if (auto && q && q !== lang && urls[q]) location.replace(urls[q] + location.hash);
+      // Returning visitor landing on an English URL from outside: use their saved language.
+      else if (auto && !q && lang === 'en' && document.referrer.indexOf(location.origin) !== 0) {
+        var saved = localStorage.getItem('otut-language');
+        if (saved && saved !== 'en' && urls[saved]) location.replace(urls[saved] + location.hash);
+      }
+    } catch (e) {}
+  </script>
+</head>
+<body class={bodyClass || undefined}>
+  <header class="topbar">
+    <a class="brand" href={localize('/', lang)} aria-label="OTUT — home"><img src="/assets/logo-authentic.png" alt="OTUT" width="78" height="78"><span>Joy of Creation</span></a>
+    <nav aria-label="Main navigation">
+      {nav.map((n) => <a href={localize(n.href, lang)} aria-current={n.href === section ? 'page' : undefined}>{n.label}</a>)}
+    </nav>
+    <div class="top-actions">
+      <label class="language-picker"><span>{ui.languageLabel}</span>
+        <select id="language-select" aria-label="Language">
+          {languages.map((l) => <option value={localize(route, l.code as Lang)} data-lang={l.code} lang={l.code} selected={l.code === lang}>{l.name}</option>)}
+        </select>
+      </label>
+    </div>
+  </header>
+  <slot />
+  <footer set:html={ui.footer} />
+  <nav class="mobile-bottom-nav" aria-label="Mobile navigation">
+    {nav.map((n) => <a href={localize(n.href, lang)} aria-current={n.href === section ? 'page' : undefined}>{n.label}</a>)}
+  </nav>
+  <template id="cookie-copy" data-text={ui.cookie.text} data-accept={ui.cookie.accept} data-decline={ui.cookie.decline}></template>
+  <script src="../scripts/site.ts"></script>
+</body>
+</html>

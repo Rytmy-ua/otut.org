@@ -1,0 +1,30 @@
+{
+  "route": "/projects/music-and-care",
+  "bodyClass": "",
+  "title": {
+    "en": "Music in Care for Ukraine — OTUT",
+    "uk": "Music in Care for Ukraine — OTUT",
+    "nl": "Music in Care for Ukraine — OTUT",
+    "fr": "Music in Care for Ukraine — OTUT",
+    "es": "Music in Care for Ukraine — OTUT",
+    "de": "Music in Care for Ukraine — OTUT",
+    "it": "Music in Care for Ukraine — OTUT",
+    "pl": "Music in Care for Ukraine — OTUT",
+    "pt": "Music in Care for Ukraine — OTUT",
+    "cs": "Music in Care for Ukraine — OTUT",
+    "ro": "Music in Care for Ukraine — OTUT"
+  },
+  "description": {
+    "en": "A separate project developing a protocol for the everyday use of music, voice and gentle rhythm in Ukrainian paediatric palliative care.",
+    "uk": "Окремий проєкт розробки протоколу використання музики, голосу й м’якого ритму в дитячій паліативній допомозі в Україні.",
+    "nl": "Een afzonderlijk project voor een protocol rond muziek, stem en zacht ritme in de dagelijkse pediatrische palliatieve zorg in Oekraïne.",
+    "fr": "Un projet distinct de protocole pour l’usage quotidien de la musique, de la voix et de rythmes doux en soins palliatifs pédiatriques en Ukraine.",
+    "es": "Un proyecto independiente para elaborar un protocolo de uso cotidiano de música, voz y ritmo suave en cuidados paliativos pediátricos en Ucrania.",
+    "de": "Ein eigenständiges Projekt zur Entwicklung eines Protokolls für Musik, Stimme und sanften Rhythmus im Alltag der pädiatrischen Palliativversorgung in der…",
+    "it": "Un progetto distinto per sviluppare un protocollo sull’uso quotidiano di musica, voce e ritmo delicato nelle cure palliative pediatriche in Ucraina.",
+    "pl": "Osobny projekt opracowania protokołu codziennego wykorzystania muzyki, głosu i łagodnego rytmu w pediatrycznej opiece paliatywnej w Ukrainie.",
+    "pt": "Um projeto autónomo para desenvolver um protocolo de uso diário de música, voz e ritmo suave em cuidados paliativos pediátricos na Ucrânia.",
+    "cs": "Samostatný projekt vývoje protokolu pro každodenní využití hudby, hlasu a jemného rytmu v dětské paliativní péči na Ukrajině.",
+    "ro": "Un proiect separat pentru elaborarea unui protocol de utilizare zilnică a muzicii, vocii și ritmului blând în îngrijirea paliativă pediatrică din Ucraina."
+  }
+}

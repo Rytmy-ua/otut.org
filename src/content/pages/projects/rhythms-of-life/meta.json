@@ -1,0 +1,30 @@
+{
+  "route": "/projects/rhythms-of-life",
+  "bodyClass": "",
+  "title": {
+    "en": "Rhythms of Life — OTUT",
+    "uk": "Ритми життя — OTUT",
+    "nl": "Rhythms of Life — OTUT",
+    "fr": "Rhythms of Life — OTUT",
+    "es": "Rhythms of Life — OTUT",
+    "de": "Rhythms of Life — OTUT",
+    "it": "Rhythms of Life — OTUT",
+    "pl": "Rhythms of Life — OTUT",
+    "pt": "Rhythms of Life — OTUT",
+    "cs": "Rhythms of Life — OTUT",
+    "ro": "Rhythms of Life — OTUT"
+  },
+  "description": {
+    "en": "A social project by Anastasiia Semenchenko. Music and rhythm are ways to connect, participate and act together.",
+    "uk": "Соціальний проєкт Анастасії Семенченко. Музика й ритм — спосіб взаємодії, участі та спільної дії.",
+    "nl": "Een sociaal project van Anastasiia Semenchenko. Muziek en ritme zijn manieren om elkaar te ontmoeten, mee te doen en samen te handelen.",
+    "fr": "Un projet social d’Anastasiia Semenchenko. La musique et le rythme permettent de se rencontrer, de participer et d’agir ensemble.",
+    "es": "Un proyecto social de Anastasiia Semenchenko. La música y el ritmo son medios para encontrarse, participar y actuar juntos.",
+    "de": "Ein soziales Projekt von Anastasiia Semenchenko. Musik und Rhythmus dienen der Begegnung, Teilhabe und dem gemeinsamen Handeln.",
+    "it": "Un progetto sociale di Anastasiia Semenchenko. Musica e ritmo sono strumenti di incontro, partecipazione e azione collettiva.",
+    "pl": "Projekt społeczny Anastasii Semenchenko. Muzyka i rytm służą spotkaniu, uczestnictwu i wspólnemu działaniu.",
+    "pt": "Um projeto social de Anastasiia Semenchenko. A música e o ritmo são meios de encontro, participação e ação conjunta.",
+    "cs": "Sociální projekt Anastasiie Semenchenko. Hudba a rytmus jsou prostředkem setkávání, zapojení a společné činnosti.",
+    "ro": "Un proiect social al Anastasiei Semenchenko. Muzica și ritmul sunt mijloace de întâlnire, participare și acțiune comună."
+  }
+}

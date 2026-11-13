@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-01",
+  "variant": "paper",
+  "cover": {
+    "src": "/assets/gogolfest-antidot-2026-10-02.webp",
+    "width": 1080,
+    "height": 1080,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "AntiDot: city, people, future.",
+    "uk": "AntiDot: місто, люди, майбутнє.",
+    "nl": "AntiDot: stad, mensen, toekomst.",
+    "fr": "AntiDot : ville, personnes, avenir.",
+    "es": "AntiDot: ciudad, personas, futuro.",
+    "de": "AntiDot: Stadt, Menschen, Zukunft.",
+    "it": "AntiDot: città, persone, futuro.",
+    "pl": "AntiDot: miasto, ludzie, przyszłość.",
+    "pt": "AntiDot: cidade, pessoas, futuro.",
+    "cs": "AntiDot: město, lidé, budoucnost.",
+    "ro": "AntiDot: oraș, oameni, viitor."
+  },
+  "description": {
+    "en": "GOGOLFEST has published the full AntiDot education programme within Pokrova: TimeCode, running in Zaporizhzhia from 2 to 4 October.",
+    "uk": "GOGOLFEST опублікував повну освітню програму AntiDot у межах Покрова: TimeCode. Вона триватиме 2–4 жовтня в Запоріжжі.",
+    "nl": "GOGOLFEST publiceerde het volledige educatieve AntiDot-programma binnen Pokrova: TimeCode, van 2 tot en met 4 oktober in Zaporizja.",
+    "fr": "GOGOLFEST a publié le programme éducatif complet d’AntiDot dans Pokrova: TimeCode, du 2 au 4 octobre à Zaporijjia.",
+    "es": "GOGOLFEST ha publicado el programa educativo completo de AntiDot dentro de Pokrova: TimeCode, del 2 al 4 de octubre en Zaporiyia.",
+    "de": "GOGOLFEST hat das vollständige AntiDot-Bildungsprogramm von Pokrova: TimeCode veröffentlicht. Es findet vom 2. bis 4. Oktober in Saporischschja statt.",
+    "it": "GOGOLFEST ha pubblicato il programma educativo completo di AntiDot per Pokrova: TimeCode, dal 2 al 4 ottobre a Zaporižžja.",
+    "pl": "GOGOLFEST opublikował pełny program edukacyjny AntiDot w ramach Pokrova: TimeCode, realizowany 2–4 października w Zaporożu.",
+    "pt": "O GOGOLFEST publicou o programa educativo completo do AntiDot no Pokrova: TimeCode, de 2 a 4 de outubro em Zaporizhzhia.",
+    "cs": "GOGOLFEST zveřejnil kompletní vzdělávací program AntiDot v rámci Pokrova: TimeCode, který proběhne 2.–4. října v Záporoží.",
+    "ro": "GOGOLFEST a publicat programul educațional complet AntiDot din cadrul Pokrova: TimeCode, desfășurat între 2 și 4 octombrie la Zaporijjea."
+  },
+  "card": {
+    "en": {
+      "label": "FESTIVAL PROGRAMME",
+      "title": "AntiDot:<br><i>city, people, future.</i>",
+      "alt": "AntiDot education programme for 2 October 2026"
+    },
+    "uk": {
+      "label": "ПРОГРАМА ФЕСТИВАЛЮ",
+      "title": "AntiDot:<br><i>місто, люди, майбутнє.</i>",
+      "alt": "Освітня програма AntiDot на 2 жовтня 2026"
+    },
+    "nl": {
+      "label": "FESTIVALPROGRAMMA",
+      "title": "AntiDot:<br><i>stad, mensen, toekomst.</i>",
+      "alt": "AntiDot-programma op 2 oktober 2026"
+    },
+    "fr": {
+      "label": "PROGRAMME DU FESTIVAL",
+      "title": "AntiDot :<br><i>ville, personnes, avenir.</i>",
+      "alt": "Programme AntiDot du 2 octobre 2026"
+    },
+    "es": {
+      "label": "PROGRAMA DEL FESTIVAL",
+      "title": "AntiDot:<br><i>ciudad, personas, futuro.</i>",
+      "alt": "Programa AntiDot del 2 de octubre de 2026"
+    },
+    "de": {
+      "label": "FESTIVALPROGRAMM",
+      "title": "AntiDot:<br><i>Stadt, Menschen, Zukunft.</i>",
+      "alt": "AntiDot-Programm am 2. Oktober 2026"
+    },
+    "it": {
+      "label": "PROGRAMMA DEL FESTIVAL",
+      "title": "AntiDot:<br><i>città, persone, futuro.</i>",
+      "alt": "Programma AntiDot del 2 ottobre 2026"
+    },
+    "pl": {
+      "label": "PROGRAM FESTIWALU",
+      "title": "AntiDot:<br><i>miasto, ludzie, przyszłość.</i>",
+      "alt": "Program AntiDot na 2 października 2026"
+    },
+    "pt": {
+      "label": "PROGRAMA DO FESTIVAL",
+      "title": "AntiDot:<br><i>cidade, pessoas, futuro.</i>",
+      "alt": "Programa AntiDot de 2 de outubro de 2026"
+    },
+    "cs": {
+      "label": "PROGRAM FESTIVALU",
+      "title": "AntiDot:<br><i>město, lidé, budoucnost.</i>",
+      "alt": "Program AntiDot na 2. října 2026"
+    },
+    "ro": {
+      "label": "PROGRAMUL FESTIVALULUI",
+      "title": "AntiDot:<br><i>oraș, oameni, viitor.</i>",
+      "alt": "Programul AntiDot din 2 octombrie 2026"
+    }
+  }
+}

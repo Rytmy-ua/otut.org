@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-30",
+  "variant": "orange",
+  "cover": {
+    "src": "/assets/emap-residencies-2027-official.webp",
+    "width": 1000,
+    "height": 523,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "EMAP residencies for media artists.",
+    "uk": "EMAP: резиденції для медіамитців.",
+    "nl": "EMAP: residenties voor mediakunstenaars.",
+    "fr": "EMAP : résidences pour artistes médias.",
+    "es": "EMAP: residencias para artistas de medios.",
+    "de": "EMAP: Residenzen für Medienkünstler:innen.",
+    "it": "EMAP: residenze per artisti multimediali.",
+    "pl": "EMAP: rezydencje dla artystów mediów.",
+    "pt": "EMAP: residências para artistas de média.",
+    "cs": "EMAP: rezidence pro mediální umělce.",
+    "ro": "EMAP: rezidențe pentru artiști media."
+  },
+  "description": {
+    "en": "The European Media Art Platform is accepting applications for two-month production residencies in 2027 from artists, duos and collectives working in digital,…",
+    "uk": "European Media Art Platform відкрила набір на двомісячні виробничі резиденції 2027 року для митців, дуетів і колективів, які працюють із цифровим, медіа-,…",
+    "nl": "European Media Art Platform opent de inschrijving voor betaalde productieresidenties van twee maanden in 2027 voor kunstenaars, duo’s en collectieven in…",
+    "fr": "European Media Art Platform ouvre les candidatures pour des résidences de production rémunérées de deux mois en 2027, destinées aux artistes, duos et…",
+    "es": "European Media Art Platform abre la convocatoria para residencias de producción remuneradas de dos meses en 2027, dirigidas a artistas, dúos y colectivos de…",
+    "de": "Die European Media Art Platform schreibt für 2027 zweimonatige bezahlte Produktionsresidenzen für Künstler:innen, Duos und Kollektive aus digitaler Kunst,…",
+    "it": "European Media Art Platform apre le candidature per residenze produttive retribuite di due mesi nel 2027, rivolte ad artisti, duo e collettivi di arte…",
+    "pl": "European Media Art Platform otwiera nabór na dwumiesięczne płatne rezydencje produkcyjne w 2027 roku dla artystów, duetów i kolektywów zajmujących się sztuką…",
+    "pt": "A European Media Art Platform abriu candidaturas para residências de produção remuneradas de dois meses em 2027, destinadas a artistas, duplas e coletivos de…",
+    "cs": "European Media Art Platform otevírá přihlášky na dvouměsíční placené produkční rezidence v roce 2027 pro umělce, dua a kolektivy v digitálním, mediálním,…",
+    "ro": "European Media Art Platform deschide înscrierile pentru rezidențe de producție plătite, de două luni, în 2027, pentru artiști, duo-uri și colective din arta…"
+  },
+  "card": {
+    "en": {
+      "label": "OPPORTUNITIES",
+      "title": "EMAP residencies<br><i>for media artists.</i>",
+      "alt": "Офіційний візуал EMAP Residencies 2027"
+    },
+    "uk": {
+      "label": "МОЖЛИВОСТІ",
+      "title": "EMAP: резиденції<br><i>для медіамитців.</i>",
+      "alt": "Офіційний візуал EMAP Residencies 2027"
+    },
+    "nl": {
+      "label": "KANSEN",
+      "title": "EMAP: residenties<br><i>voor mediakunstenaars.</i>",
+      "alt": "Офіційний візуал EMAP Residencies 2027"
+    },
+    "fr": {
+      "label": "OPPORTUNITÉS",
+      "title": "EMAP : résidences<br><i>pour artistes médias.</i>",
+      "alt": "Офіційний візуал EMAP Residencies 2027"
+    },
+    "es": {
+      "label": "OPORTUNIDADES",
+      "title": "EMAP: residencias<br><i>para artistas de medios.</i>",
+      "alt": "Офіційний візуал EMAP Residencies 2027"
+    },
+    "de": {
+      "label": "CHANCEN",
+      "title": "EMAP: Residenzen<br><i>für Medienkünstler:innen.</i>",
+      "alt": "Офіційний візуал EMAP Residencies 2027"
+    },
+    "it": {
+      "label": "OPPORTUNITÀ",
+      "title": "EMAP: residenze<br><i>per artisti multimediali.</i>",
+      "alt": "Офіційний візуал EMAP Residencies 2027"
+    },
+    "pl": {
+      "label": "MOŻLIWOŚCI",
+      "title": "EMAP: rezydencje<br><i>dla artystów mediów.</i>",
+      "alt": "Офіційний візуал EMAP Residencies 2027"
+    },
+    "pt": {
+      "label": "OPORTUNIDADES",
+      "title": "EMAP: residências<br><i>para artistas de média.</i>",
+      "alt": "Офіційний візуал EMAP Residencies 2027"
+    },
+    "cs": {
+      "label": "PŘÍLEŽITOSTI",
+      "title": "EMAP: rezidence<br><i>pro mediální umělce.</i>",
+      "alt": "Офіційний візуал EMAP Residencies 2027"
+    },
+    "ro": {
+      "label": "OPORTUNITĂȚI",
+      "title": "EMAP: rezidențe<br><i>pentru artiști media.</i>",
+      "alt": "Офіційний візуал EMAP Residencies 2027"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "route": "/projects/barvinok",
+  "bodyClass": "",
+  "title": {
+    "en": "BARVINOK — OTUT",
+    "uk": "Барвінок — OTUT",
+    "nl": "BARVINOK — OTUT",
+    "fr": "BARVINOK — OTUT",
+    "es": "BARVINOK — OTUT",
+    "de": "BARVINOK — OTUT",
+    "it": "BARVINOK — OTUT",
+    "pl": "BARVINOK — OTUT",
+    "pt": "BARVINOK — OTUT",
+    "cs": "BARVINOK — OTUT",
+    "ro": "BARVINOK — OTUT"
+  },
+  "description": {
+    "en": "A Ukrainian culture club in the Netherlands bringing children and families together through singing, creative activities and community events.",
+    "uk": "Клуб української культури в Нідерландах, що збирає дітей і родини навколо співу, творчості та спільних подій.",
+    "nl": "Een club voor Oekraïense cultuur in Nederland die kinderen en gezinnen samenbrengt met zang, creatieve activiteiten en gemeenschapsevenementen.",
+    "fr": "Un club de culture ukrainienne aux Pays-Bas qui réunit enfants et familles par le chant, les activités créatives et les événements communautaires.",
+    "es": "Un club de cultura ucraniana en los Países Bajos que reúne a niños y familias mediante canto, actividades creativas y eventos comunitarios.",
+    "de": "Club für ukrainische Kultur · Niederlande",
+    "it": "Un club di cultura ucraina nei Paesi Bassi che riunisce bambini e famiglie attraverso canto, attività creative ed eventi comunitari.",
+    "pl": "Klub kultury ukraińskiej w Niderlandach, który łączy dzieci i rodziny przez śpiew, zajęcia twórcze i wydarzenia społecznościowe.",
+    "pt": "Clube de cultura ucraniana · Países Baixos",
+    "cs": "Klub ukrajinské kultury v Nizozemsku, který spojuje děti a rodiny prostřednictvím zpěvu, tvůrčích aktivit a komunitních akcí.",
+    "ro": "Club de cultură ucraineană · Țările de Jos"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-20",
+  "variant": "coral",
+  "cover": {
+    "src": "/assets/news-three-new-routes-800x450.webp",
+    "width": 800,
+    "height": 450,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "Three opportunities. Three different routes.",
+    "uk": "Три можливості. Три різні маршрути.",
+    "nl": "Drie kansen. Drie verschillende routes.",
+    "fr": "Trois opportunités. Trois parcours différents.",
+    "es": "Tres oportunidades. Tres rutas diferentes.",
+    "de": "Drei Möglichkeiten. Drei verschiedene Wege.",
+    "it": "Tre opportunità. Tre percorsi diversi.",
+    "pl": "Trzy możliwości. Trzy różne drogi.",
+    "pt": "Três oportunidades. Três percursos diferentes.",
+    "cs": "Tři příležitosti. Tři různé cesty.",
+    "ro": "Trei oportunități. Trei trasee diferite."
+  },
+  "description": {
+    "en": "OTUT selected three current calls for people working with art, technology, Ukrainian culture and the memory of war.",
+    "uk": "OTUT відібрав три актуальні конкурси для тих, хто працює з мистецтвом, технологіями, українською культурою та пам’яттю про війну.",
+    "nl": "OTUT selecteerde drie actuele oproepen voor wie werkt met kunst, technologie, Oekraïense cultuur en oorlogsherinnering.",
+    "fr": "OTUT a sélectionné trois appels actuels pour celles et ceux qui travaillent avec l’art, la technologie, la culture ukrainienne et la mémoire de la guerre.",
+    "es": "OTUT ha seleccionado tres convocatorias actuales para quienes trabajan con arte, tecnología, cultura ucraniana y memoria de la guerra.",
+    "de": "OTUT hat drei aktuelle Ausschreibungen für Menschen ausgewählt, die mit Kunst, Technologie, ukrainischer Kultur und Kriegserinnerung arbeiten.",
+    "it": "OTUT ha selezionato tre bandi attuali per chi lavora con arte, tecnologia, cultura ucraina e memoria della guerra.",
+    "pl": "OTUT wybrał trzy aktualne nabory dla osób pracujących ze sztuką, technologią, kulturą ukraińską i pamięcią o wojnie.",
+    "pt": "A OTUT selecionou três convocatórias atuais para quem trabalha com arte, tecnologia, cultura ucraniana e memória da guerra.",
+    "cs": "OTUT vybral tři aktuální výzvy pro ty, kdo pracují s uměním, technologiemi, ukrajinskou kulturou a pamětí války.",
+    "ro": "OTUT a selectat trei apeluri actuale pentru cei care lucrează cu arta, tehnologia, cultura ucraineană și memoria războiului."
+  },
+  "card": {
+    "en": {
+      "label": "OPPORTUNITIES",
+      "title": "Three opportunities.<br><i>Three different routes.</i>",
+      "alt": "Three abstract routes opening toward new cultural opportunities"
+    },
+    "uk": {
+      "label": "МОЖЛИВОСТІ",
+      "title": "Три можливості.<br><i>Три різні маршрути.</i>",
+      "alt": "Три абстрактні маршрути, що ведуть до нових культурних можливостей"
+    },
+    "nl": {
+      "label": "KANSEN",
+      "title": "Drie kansen.<br><i>Drie verschillende routes.</i>",
+      "alt": "Drie abstracte routes naar nieuwe culturele kansen"
+    },
+    "fr": {
+      "label": "OPPORTUNITÉS",
+      "title": "Trois opportunités.<br><i>Trois parcours différents.</i>",
+      "alt": "Trois parcours abstraits ouvrant sur de nouvelles opportunités culturelles"
+    },
+    "es": {
+      "label": "OPORTUNIDADES",
+      "title": "Tres oportunidades.<br><i>Tres rutas diferentes.</i>",
+      "alt": "Tres rutas abstractas hacia nuevas oportunidades culturales"
+    },
+    "de": {
+      "label": "MÖGLICHKEITEN",
+      "title": "Drei Möglichkeiten.<br><i>Drei verschiedene Wege.</i>",
+      "alt": "Drei abstrakte Wege zu neuen kulturellen Möglichkeiten"
+    },
+    "it": {
+      "label": "OPPORTUNITÀ",
+      "title": "Tre opportunità.<br><i>Tre percorsi diversi.</i>",
+      "alt": "Tre percorsi astratti verso nuove opportunità culturali"
+    },
+    "pl": {
+      "label": "MOŻLIWOŚCI",
+      "title": "Trzy możliwości.<br><i>Trzy różne drogi.</i>",
+      "alt": "Trzy abstrakcyjne drogi prowadzące do nowych możliwości kulturalnych"
+    },
+    "pt": {
+      "label": "OPORTUNIDADES",
+      "title": "Três oportunidades.<br><i>Três percursos diferentes.</i>",
+      "alt": "Três percursos abstratos rumo a novas oportunidades culturais"
+    },
+    "cs": {
+      "label": "PŘÍLEŽITOSTI",
+      "title": "Tři příležitosti.<br><i>Tři různé cesty.</i>",
+      "alt": "Tři abstraktní cesty k novým kulturním příležitostem"
+    },
+    "ro": {
+      "label": "OPORTUNITĂȚI",
+      "title": "Trei oportunități.<br><i>Trei trasee diferite.</i>",
+      "alt": "Trei trasee abstracte spre noi oportunități culturale"
+    }
+  }
+}

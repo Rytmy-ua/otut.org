@@ -1,0 +1,30 @@
+{
+  "route": "/projects",
+  "bodyClass": "",
+  "title": {
+    "en": "Projects — OTUT",
+    "uk": "Проєкти — OTUT",
+    "nl": "Projecten — OTUT",
+    "fr": "Projets — OTUT",
+    "es": "Proyectos — OTUT",
+    "de": "Projekte — OTUT",
+    "it": "Progetti — OTUT",
+    "pl": "Projekty — OTUT",
+    "pt": "Projetos — OTUT",
+    "cs": "Projekty — OTUT",
+    "ro": "Proiecte — OTUT"
+  },
+  "description": {
+    "en": "OTUT works with ideas of many kinds. We help find people and partners, develop a concept and organise work together. These are projects we work with.",
+    "uk": "OTUT працює з ідеями різного характеру. Ми допомагаємо знаходити людей і партнерів, розвивати задум та організовувати спільну роботу. Тут — проєкти, з якими ми…",
+    "nl": "OTUT werkt met uiteenlopende ideeën. We helpen mensen en partners te vinden, een idee te ontwikkelen en samen het werk te organiseren. Dit zijn projecten…",
+    "fr": "OTUT travaille avec des idées de toutes sortes. Nous aidons à réunir les personnes et les partenaires, à développer le projet et à organiser le travail…",
+    "es": "OTUT trabaja con ideas de distintos tipos. Ayudamos a reunir personas y socios, desarrollar la idea y organizar el trabajo conjunto. Estos son los proyectos…",
+    "de": "OTUT arbeitet mit Ideen unterschiedlicher Art. Wir helfen, Menschen und Partner zu finden, Konzepte zu entwickeln und gemeinsame Arbeit zu organisieren. Hier…",
+    "it": "OTUT lavora con idee di vario tipo. Aiutiamo a trovare persone e partner, sviluppare un’idea e organizzare il lavoro comune. Questi sono i progetti a cui…",
+    "pl": "OTUT pracuje z różnorodnymi pomysłami. Pomagamy znaleźć ludzi i partnerów, rozwinąć koncepcję i zorganizować wspólną pracę. Oto projekty, przy których…",
+    "pt": "A OTUT trabalha com ideias de várias naturezas. Ajudamos a encontrar pessoas e parceiros, desenvolver uma ideia e organizar o trabalho conjunto. Estes são…",
+    "cs": "OTUT pracuje s různými nápady. Pomáháme najít lidi a partnery, rozvíjet myšlenku a organizovat společnou práci. Toto jsou projekty, na kterých spolupracujeme.",
+    "ro": "OTUT lucrează cu idei diverse. Ajutăm la găsirea oamenilor și partenerilor, dezvoltarea unei idei și organizarea muncii împreună. Acestea sunt proiectele la…"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-10",
+  "variant": "olive",
+  "cover": {
+    "src": "/assets/news-oct9-800x450.svg",
+    "width": 800,
+    "height": 450,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "4 opportunities for artists: residencies and funding for 2027",
+    "uk": "4 можливості для митців: резиденції та фінансування на 2027 рік",
+    "nl": "4 kansen voor kunstenaars: residenties en financiering voor 2027",
+    "fr": "4 opportunités pour les artistes : résidences et financements pour 2027",
+    "es": "4 oportunidades para artistas: residencias y financiación para 2027",
+    "de": "4 Möglichkeiten für Kunstschaffende: Residenzen und Förderung für 2027",
+    "it": "4 opportunità per artisti: residenze e finanziamenti per il 2027",
+    "pl": "4 możliwości dla artystów: rezydencje i finansowanie na 2027 rok",
+    "pt": "4 oportunidades para artistas: residências e financiamento para 2027",
+    "cs": "4 příležitosti pro umělce: rezidence a financování na rok 2027",
+    "ro": "4 oportunități pentru artiști: rezidențe și finanțare pentru 2027"
+  },
+  "description": {
+    "en": "Art and technology, coastal research, time for your practice and work in public space: four open calls accepting individual artists. Eligibility varies: one…",
+    "uk": "Мистецтво й технології, дослідження узбереж, час для власної практики та робота в міському просторі — зібрали чотири відкриті конкурси, на які можна подаватися…",
+    "nl": "Kunst en technologie, onderzoek naar kustgebieden, tijd voor je eigen praktijk en werk in de openbare ruimte: vier open oproepen voor individuele kunstenaars.…",
+    "fr": "Art et technologie, recherche sur les littoraux, temps pour sa pratique et création dans l’espace public : quatre appels accessibles aux artistes individuels.…",
+    "es": "Arte y tecnología, investigación costera, tiempo para tu práctica y creación en el espacio público: cuatro convocatorias para artistas individuales. Los…",
+    "de": "Kunst und Technologie, Küstenforschung, Zeit für die eigene Praxis und Arbeit im öffentlichen Raum: vier Ausschreibungen für einzelne Kunstschaffende. Die…",
+    "it": "Arte e tecnologia, ricerca sulle coste, tempo per la propria pratica e lavoro nello spazio pubblico: quattro bandi aperti ad artisti individuali. I requisiti…",
+    "pl": "Sztuka i technologia, badania wybrzeży, czas na własną praktykę i działania w przestrzeni publicznej: cztery nabory dla indywidualnych artystów. Warunki są…",
+    "pt": "Arte e tecnologia, investigação costeira, tempo para a prática artística e trabalho no espaço público: quatro convocatórias abertas a artistas individuais. As…",
+    "cs": "Umění a technologie, výzkum pobřeží, čas na vlastní tvorbu a práce ve veřejném prostoru: čtyři výzvy pro jednotlivé umělce. Podmínky se liší: jedna vyžaduje…",
+    "ro": "Artă și tehnologie, cercetarea coastelor, timp pentru practica proprie și lucru în spațiul public: patru apeluri deschise artiștilor individuali. Condițiile…"
+  },
+  "card": {
+    "en": {
+      "label": "ARTIST OPPORTUNITIES",
+      "title": "4 opportunities for artists: residencies and funding for 2027",
+      "alt": ""
+    },
+    "uk": {
+      "label": "МОЖЛИВОСТІ ДЛЯ МИТЦІВ",
+      "title": "4 можливості для митців: резиденції та фінансування на 2027 рік",
+      "alt": ""
+    },
+    "nl": {
+      "label": "KANSEN VOOR KUNSTENAARS",
+      "title": "4 kansen voor kunstenaars: residenties en financiering voor 2027",
+      "alt": ""
+    },
+    "fr": {
+      "label": "OPPORTUNITÉS POUR LES ARTISTES",
+      "title": "4 opportunités pour les artistes : résidences et financements pour 2027",
+      "alt": ""
+    },
+    "es": {
+      "label": "OPORTUNIDADES PARA ARTISTAS",
+      "title": "4 oportunidades para artistas: residencias y financiación para 2027",
+      "alt": ""
+    },
+    "de": {
+      "label": "MÖGLICHKEITEN FÜR KUNSTSCHAFFENDE",
+      "title": "4 Möglichkeiten für Kunstschaffende: Residenzen und Förderung für 2027",
+      "alt": ""
+    },
+    "it": {
+      "label": "OPPORTUNITÀ PER ARTISTI",
+      "title": "4 opportunità per artisti: residenze e finanziamenti per il 2027",
+      "alt": ""
+    },
+    "pl": {
+      "label": "MOŻLIWOŚCI DLA ARTYSTÓW",
+      "title": "4 możliwości dla artystów: rezydencje i finansowanie na 2027 rok",
+      "alt": ""
+    },
+    "pt": {
+      "label": "OPORTUNIDADES PARA ARTISTAS",
+      "title": "4 oportunidades para artistas: residências e financiamento para 2027",
+      "alt": ""
+    },
+    "cs": {
+      "label": "PŘÍLEŽITOSTI PRO UMĚLCE",
+      "title": "4 příležitosti pro umělce: rezidence a financování na rok 2027",
+      "alt": ""
+    },
+    "ro": {
+      "label": "OPORTUNITĂȚI PENTRU ARTIȘTI",
+      "title": "4 oportunități pentru artiști: rezidențe și finanțare pentru 2027",
+      "alt": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "route": "/contact",
+  "bodyClass": "",
+  "title": {
+    "en": "Contact — OTUT",
+    "uk": "Контакт — OTUT",
+    "nl": "Contact — OTUT",
+    "fr": "Contact — OTUT",
+    "es": "Contacto — OTUT",
+    "de": "Kontakt — OTUT",
+    "it": "Contatti — OTUT",
+    "pl": "Kontakt — OTUT",
+    "pt": "Contacto — OTUT",
+    "cs": "Kontakt — OTUT",
+    "ro": "Contact — OTUT"
+  },
+  "description": {
+    "en": "Write to us. Don’t hold back your creative flow.",
+    "uk": "Напишіть нам. Не стримуйте свій творчий потік.",
+    "nl": "Schrijf ons. Houd je creatieve stroom niet tegen.",
+    "fr": "Écrivez-nous. Ne retenez pas votre élan créatif.",
+    "es": "Escríbenos. No frenes tu impulso creativo.",
+    "de": "Schreiben Sie uns. Halten Sie Ihren kreativen Fluss nicht zurück.",
+    "it": "Scrivici. Non frenare il tuo flusso creativo.",
+    "pl": "Napisz do nas. Nie powstrzymuj swojego twórczego przepływu.",
+    "pt": "Escreva-nos. Não contenha o seu fluxo criativo.",
+    "cs": "Napište nám. Nezadržujte svůj tvůrčí proud.",
+    "ro": ""
+  }
+}

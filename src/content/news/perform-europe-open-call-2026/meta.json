@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-08",
+  "variant": "olive",
+  "cover": {
+    "src": "/assets/news-perform-europe-800x450.webp",
+    "width": 800,
+    "height": 450,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "Your work could travel further.",
+    "uk": "Ваша робота може подорожувати далі.",
+    "nl": "Jouw werk kan verder reizen.",
+    "fr": "Votre œuvre peut voyager plus loin.",
+    "es": "Tu obra puede viajar más lejos.",
+    "de": "Ihre Arbeit kann weiter reisen.",
+    "it": "Il tuo lavoro può viaggiare più lontano.",
+    "pl": "Twoja praca może podróżować dalej.",
+    "pt": "O seu trabalho pode viajar mais longe.",
+    "cs": "Vaše dílo může cestovat dál.",
+    "ro": "Lucrarea ta poate călători mai departe."
+  },
+  "description": {
+    "en": "Perform Europe’s third Open Call is now open — a chance to take a finished or tour-ready performing arts work across borders.",
+    "uk": "Третій відкритий конкурс Perform Europe уже стартував — це можливість вивести готову або підготовлену до турингу роботу у сфері перформативних мистецтв за межі…",
+    "nl": "De derde open oproep van Perform Europe is nu geopend — een kans om een afgerond of tourklaar podiumkunstwerk over grenzen heen te brengen.",
+    "fr": "Le troisième appel ouvert de Perform Europe est lancé — l’occasion de faire circuler au-delà des frontières une œuvre de spectacle vivant achevée ou prête à…",
+    "es": "Ya está abierta la tercera convocatoria de Perform Europe: una oportunidad para llevar más allá de las fronteras una obra de artes escénicas terminada o lista…",
+    "de": "Der dritte Open Call von Perform Europe ist geöffnet — eine Chance, ein fertiges oder tourbereites Werk der darstellenden Künste über Grenzen hinweg zu…",
+    "it": "È aperto il terzo bando di Perform Europe: un’opportunità per portare oltre confine un lavoro di arti performative completato o pronto per la tournée.",
+    "pl": "Trzeci otwarty nabór Perform Europe już trwa — to szansa, by pokazać za granicą ukończoną lub gotową do tournée pracę z obszaru sztuk performatywnych.",
+    "pt": "A terceira convocatória aberta da Perform Europe já começou — uma oportunidade para levar além-fronteiras uma obra de artes performativas concluída ou pronta…",
+    "cs": "Třetí otevřená výzva Perform Europe je spuštěna — příležitost uvést dokončené nebo k turné připravené dílo z oblasti scénických umění za hranicemi.",
+    "ro": "Al treilea apel deschis Perform Europe este acum lansat — o oportunitate de a duce peste granițe o lucrare finalizată sau pregătită pentru turneu din domeniul…"
+  },
+  "card": {
+    "en": {
+      "label": "OPEN CALL",
+      "title": "Your work could<br><i>travel further.</i>",
+      "alt": "Abstract OTUT artwork about creative routes crossing borders"
+    },
+    "uk": {
+      "label": "ВІДКРИТИЙ КОНКУРС",
+      "title": "Ваша робота може<br><i>подорожувати далі.</i>",
+      "alt": "Abstract OTUT artwork about creative routes crossing borders"
+    },
+    "nl": {
+      "label": "OPEN OPROEP",
+      "title": "Jouw werk kan<br><i>verder reizen.</i>",
+      "alt": "Abstract OTUT artwork about creative routes crossing borders"
+    },
+    "fr": {
+      "label": "APPEL OUVERT",
+      "title": "Votre œuvre peut<br><i>voyager plus loin.</i>",
+      "alt": "Abstract OTUT artwork about creative routes crossing borders"
+    },
+    "es": {
+      "label": "CONVOCATORIA ABIERTA",
+      "title": "Tu obra puede<br><i>viajar más lejos.</i>",
+      "alt": "Abstract OTUT artwork about creative routes crossing borders"
+    },
+    "de": {
+      "label": "OFFENER AUFRUF",
+      "title": "Ihre Arbeit kann<br><i>weiter reisen.</i>",
+      "alt": "Abstract OTUT artwork about creative routes crossing borders"
+    },
+    "it": {
+      "label": "BANDO APERTO",
+      "title": "Il tuo lavoro può<br><i>viaggiare più lontano.</i>",
+      "alt": "Abstract OTUT artwork about creative routes crossing borders"
+    },
+    "pl": {
+      "label": "NABÓR OTWARTY",
+      "title": "Twoja praca może<br><i>podróżować dalej.</i>",
+      "alt": "Abstract OTUT artwork about creative routes crossing borders"
+    },
+    "pt": {
+      "label": "CONVOCATÓRIA ABERTA",
+      "title": "O seu trabalho pode<br><i>viajar mais longe.</i>",
+      "alt": "Abstract OTUT artwork about creative routes crossing borders"
+    },
+    "cs": {
+      "label": "OTEVŘENÁ VÝZVA",
+      "title": "Vaše dílo může<br><i>cestovat dál.</i>",
+      "alt": "Abstract OTUT artwork about creative routes crossing borders"
+    },
+    "ro": {
+      "label": "APEL DESCHIS",
+      "title": "Lucrarea ta poate<br><i>călători mai departe.</i>",
+      "alt": "Abstract OTUT artwork about creative routes crossing borders"
+    }
+  }
+}

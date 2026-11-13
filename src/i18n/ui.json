@@ -1,0 +1,178 @@
+{
+  "en": {
+    "nav": {
+      "about": "About",
+      "projects": "Projects",
+      "news": "News",
+      "contact": "Contact"
+    },
+    "languageLabel": "LANGUAGE",
+    "backToNews": "← Back to all news",
+    "footer": "<span>OTUT / JOY OF CREATION</span><span>UKRAINE ↔ EUROPE ↔ WORLD</span><span>© 2026</span>",
+    "cookie": {
+      "text": "We use optional analytics cookies to understand visits and improve the site.",
+      "accept": "Allow",
+      "decline": "Necessary only"
+    }
+  },
+  "uk": {
+    "nav": {
+      "about": "Про нас",
+      "projects": "Проєкти",
+      "news": "Новини",
+      "contact": "Контакт"
+    },
+    "languageLabel": "МОВА",
+    "backToNews": "← До всіх новин",
+    "footer": "<span>OTUT / JOY OF CREATION</span><span>UKRAINE ↔ EUROPE ↔ WORLD</span><span>© 2026</span>",
+    "cookie": {
+      "text": "Ми використовуємо необов’язкові аналітичні cookies, щоб розуміти відвідування й покращувати сайт.",
+      "accept": "Дозволити",
+      "decline": "Лише необхідні"
+    }
+  },
+  "nl": {
+    "nav": {
+      "about": "Over OTUT",
+      "projects": "Projecten",
+      "news": "Nieuws",
+      "contact": "Contact"
+    },
+    "languageLabel": "TAAL",
+    "backToNews": "← Terug naar al het nieuws",
+    "footer": "<span>OTUT / JOY OF CREATION</span><span>UKRAINE ↔ EUROPE ↔ WORLD</span><span>© 2026</span>",
+    "cookie": {
+      "text": "We gebruiken optionele analytische cookies om bezoeken te begrijpen en de site te verbeteren.",
+      "accept": "Toestaan",
+      "decline": "Alleen noodzakelijk"
+    }
+  },
+  "fr": {
+    "nav": {
+      "about": "À propos",
+      "projects": "Projets",
+      "news": "Actualités",
+      "contact": "Contact"
+    },
+    "languageLabel": "LANGUE",
+    "backToNews": "← Retour à toutes les actualités",
+    "footer": "<span>OTUT / JOY OF CREATION</span><span>UKRAINE ↔ EUROPE ↔ WORLD</span><span>© 2026</span>",
+    "cookie": {
+      "text": "Nous utilisons des cookies analytiques facultatifs pour comprendre les visites et améliorer le site.",
+      "accept": "Autoriser",
+      "decline": "Nécessaires uniquement"
+    }
+  },
+  "es": {
+    "nav": {
+      "about": "Sobre OTUT",
+      "projects": "Proyectos",
+      "news": "Noticias",
+      "contact": "Contacto"
+    },
+    "languageLabel": "IDIOMA",
+    "backToNews": "← Volver a todas las noticias",
+    "footer": "<span>OTUT / JOY OF CREATION</span><span>UKRAINE ↔ EUROPE ↔ WORLD</span><span>© 2026</span>",
+    "cookie": {
+      "text": "Utilizamos cookies analíticas opcionales para comprender las visitas y mejorar el sitio.",
+      "accept": "Permitir",
+      "decline": "Solo necesarias"
+    }
+  },
+  "de": {
+    "nav": {
+      "about": "Über OTUT",
+      "projects": "Projekte",
+      "news": "Neuigkeiten",
+      "contact": "Kontakt"
+    },
+    "languageLabel": "SPRACHE",
+    "backToNews": "← Zurück zu allen Neuigkeiten",
+    "footer": "<span>OTUT / JOY OF CREATION</span><span>UKRAINE ↔ EUROPE ↔ WORLD</span><span>© 2026</span>",
+    "cookie": {
+      "text": "Wir verwenden optionale Analyse-Cookies, um Besuche zu verstehen und die Website zu verbessern.",
+      "accept": "Zulassen",
+      "decline": "Nur notwendige"
+    }
+  },
+  "it": {
+    "nav": {
+      "about": "Chi siamo",
+      "projects": "Progetti",
+      "news": "Notizie",
+      "contact": "Contatti"
+    },
+    "languageLabel": "LINGUA",
+    "backToNews": "← Torna a tutte le notizie",
+    "footer": "<span>OTUT / JOY OF CREATION</span><span>UKRAINE ↔ EUROPE ↔ WORLD</span><span>© 2026</span>",
+    "cookie": {
+      "text": "Utilizziamo cookie analitici facoltativi per comprendere le visite e migliorare il sito.",
+      "accept": "Consenti",
+      "decline": "Solo necessari"
+    }
+  },
+  "pl": {
+    "nav": {
+      "about": "O OTUT",
+      "projects": "Projekty",
+      "news": "Aktualności",
+      "contact": "Kontakt"
+    },
+    "languageLabel": "JĘZYK",
+    "backToNews": "← Wróć do wszystkich aktualności",
+    "footer": "<span>OTUT / JOY OF CREATION</span><span>UKRAINE ↔ EUROPE ↔ WORLD</span><span>© 2026</span>",
+    "cookie": {
+      "text": "Używamy opcjonalnych analitycznych plików cookie, aby analizować wizyty i ulepszać stronę.",
+      "accept": "Zezwól",
+      "decline": "Tylko niezbędne"
+    }
+  },
+  "pt": {
+    "nav": {
+      "about": "Sobre a OTUT",
+      "projects": "Projetos",
+      "news": "Notícias",
+      "contact": "Contacto"
+    },
+    "languageLabel": "IDIOMA",
+    "backToNews": "← Voltar a todas as notícias",
+    "footer": "<span>OTUT / JOY OF CREATION</span><span>UKRAINE ↔ EUROPE ↔ WORLD</span><span>© 2026</span>",
+    "cookie": {
+      "text": "Usamos cookies analíticos opcionais para compreender as visitas e melhorar o site.",
+      "accept": "Permitir",
+      "decline": "Apenas necessários"
+    }
+  },
+  "cs": {
+    "nav": {
+      "about": "O OTUT",
+      "projects": "Projekty",
+      "news": "Novinky",
+      "contact": "Kontakt"
+    },
+    "languageLabel": "JAZYK",
+    "backToNews": "← Zpět ke všem novinkám",
+    "footer": "<span>OTUT / JOY OF CREATION</span><span>UKRAINE ↔ EUROPE ↔ WORLD</span><span>© 2026</span>",
+    "cookie": {
+      "text": "Používáme volitelné analytické cookies, abychom porozuměli návštěvám a zlepšovali web.",
+      "accept": "Povolit",
+      "decline": "Pouze nezbytné"
+    }
+  },
+  "ro": {
+    "nav": {
+      "about": "Despre OTUT",
+      "projects": "Proiecte",
+      "news": "Noutăți",
+      "contact": "Contact"
+    },
+    "languageLabel": "LIMBĂ",
+    "backToNews": "← Înapoi la toate noutățile",
+    "footer": "<span>OTUT / JOY OF CREATION</span><span>UKRAINE ↔ EUROPE ↔ WORLD</span><span>© 2026</span>",
+    "cookie": {
+      "text": "Folosim cookie-uri analitice opționale pentru a înțelege vizitele și a îmbunătăți site-ul.",
+      "accept": "Permite",
+      "decline": "Doar necesare"
+    }
+  }
+}

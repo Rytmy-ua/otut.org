@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-30",
+  "variant": "acid",
+  "cover": {
+    "src": "/assets/gogolfest-theatre-official.webp",
+    "width": 1600,
+    "height": 1066,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "Four branches. One space.",
+    "uk": "Чотири гілки. Один простір.",
+    "nl": "Vier takken. Eén ruimte.",
+    "fr": "Quatre branches. Un même espace.",
+    "es": "Cuatro ramas. Un solo espacio.",
+    "de": "Vier Zweige. Ein Raum.",
+    "it": "Quattro rami. Un solo spazio.",
+    "pl": "Cztery gałęzie. Jedna przestrzeń.",
+    "pt": "Quatro ramos. Um espaço.",
+    "cs": "Čtyři větve. Jeden prostor.",
+    "ro": "Patru ramuri. Un singur spațiu."
+  },
+  "description": {
+    "en": "At the anniversary Kyiv edition of GOGOLFEST, the visual programme worked not as a single exhibition but as a meeting of four distinct artistic environments.",
+    "uk": "У ювілейному київському GOGOLFEST візуальна програма працювала не як одна виставка, а як зустріч чотирьох окремих мистецьких середовищ.",
+    "nl": "Tijdens het jubileum-GOGOLFEST in Kyiv werkte het visuele programma niet als één tentoonstelling, maar als een ontmoeting tussen vier afzonderlijke…",
+    "fr": "Pour l’édition anniversaire de GOGOLFEST à Kyiv, le programme visuel n’a pas fonctionné comme une seule exposition, mais comme la rencontre de quatre scènes…",
+    "es": "En la edición de aniversario de GOGOLFEST en Kyiv, el programa visual no funcionó como una única exposición, sino como el encuentro de cuatro entornos…",
+    "de": "Beim Jubiläums-GOGOLFEST in Kyiv war das visuelle Programm keine einzelne Ausstellung, sondern eine Begegnung von vier eigenständigen Kunstszenen.",
+    "it": "Nell’edizione anniversario di GOGOLFEST a Kyiv, il programma visivo non ha funzionato come un’unica mostra, ma come l’incontro di quattro distinti ambienti…",
+    "pl": "Podczas jubileuszowego GOGOLFEST w Kijowie program wizualny nie był jedną wystawą, lecz spotkaniem czterech odrębnych środowisk artystycznych.",
+    "pt": "Na edição de aniversário do GOGOLFEST em Kyiv, o programa visual não funcionou como uma única exposição, mas como o encontro de quatro meios artísticos…",
+    "cs": "Při jubilejním GOGOLFESTu v Kyjevě nefungoval vizuální program jako jedna výstava, ale jako setkání čtyř samostatných uměleckých prostředí.",
+    "ro": "La ediția aniversară GOGOLFEST din Kyiv, programul vizual nu a funcționat ca o singură expoziție, ci ca întâlnirea a patru medii artistice distincte."
+  },
+  "card": {
+    "en": {
+      "label": "AFTER THE FESTIVAL",
+      "title": "Four branches.<br><i>One space.</i>",
+      "alt": "Театральний перформанс GOGOLFEST, фото з офіційного архіву фестивалю"
+    },
+    "uk": {
+      "label": "ПІСЛЯ ФЕСТИВАЛЮ",
+      "title": "Чотири гілки.<br><i>Один простір.</i>",
+      "alt": "Театральний перформанс GOGOLFEST, фото з офіційного архіву фестивалю"
+    },
+    "nl": {
+      "label": "NA HET FESTIVAL",
+      "title": "Vier takken.<br><i>Eén ruimte.</i>",
+      "alt": "Театральний перформанс GOGOLFEST, фото з офіційного архіву фестивалю"
+    },
+    "fr": {
+      "label": "APRÈS LE FESTIVAL",
+      "title": "Quatre branches.<br><i>Un même espace.</i>",
+      "alt": "Театральний перформанс GOGOLFEST, фото з офіційного архіву фестивалю"
+    },
+    "es": {
+      "label": "DESPUÉS DEL FESTIVAL",
+      "title": "Cuatro ramas.<br><i>Un solo espacio.</i>",
+      "alt": "Театральний перформанс GOGOLFEST, фото з офіційного архіву фестивалю"
+    },
+    "de": {
+      "label": "NACH DEM FESTIVAL",
+      "title": "Vier Zweige.<br><i>Ein Raum.</i>",
+      "alt": "Театральний перформанс GOGOLFEST, фото з офіційного архіву фестивалю"
+    },
+    "it": {
+      "label": "DOPO IL FESTIVAL",
+      "title": "Quattro rami.<br><i>Un solo spazio.</i>",
+      "alt": "Театральний перформанс GOGOLFEST, фото з офіційного архіву фестивалю"
+    },
+    "pl": {
+      "label": "PO FESTIWALU",
+      "title": "Cztery gałęzie.<br><i>Jedna przestrzeń.</i>",
+      "alt": "Театральний перформанс GOGOLFEST, фото з офіційного архіву фестивалю"
+    },
+    "pt": {
+      "label": "DEPOIS DO FESTIVAL",
+      "title": "Quatro ramos.<br><i>Um espaço.</i>",
+      "alt": "Театральний перформанс GOGOLFEST, фото з офіційного архіву фестивалю"
+    },
+    "cs": {
+      "label": "PO FESTIVALU",
+      "title": "Čtyři větve.<br><i>Jeden prostor.</i>",
+      "alt": "Театральний перформанс GOGOLFEST, фото з офіційного архіву фестивалю"
+    },
+    "ro": {
+      "label": "DUPĂ FESTIVAL",
+      "title": "Patru ramuri.<br><i>Un singur spațiu.</i>",
+      "alt": "Театральний перформанс GOGOLFEST, фото з офіційного архіву фестивалю"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-16",
+  "variant": "yellow",
+  "cover": {
+    "src": "/assets/news-gogolfest-800x450.webp",
+    "width": 800,
+    "height": 450,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "GOGOLFEST returns to Kyiv.",
+    "uk": "ГОГОЛЬФЕСТ повертається до Києва.",
+    "nl": "GOGOLFEST keert terug naar Kyiv.",
+    "fr": "GOGOLFEST revient à Kyiv.",
+    "es": "GOGOLFEST regresa a Kyiv.",
+    "de": "GOGOLFEST kehrt nach Kyiv zurück.",
+    "it": "GOGOLFEST torna a Kyiv.",
+    "pl": "GOGOLFEST wraca do Kijowa.",
+    "pt": "O GOGOLFEST regressa a Kyiv.",
+    "cs": "GOGOLFEST se vrací do Kyjeva.",
+    "ro": "GOGOLFEST revine la Kyiv."
+  },
+  "description": {
+    "en": "The anniversary edition “20 Years Later” opens today, 16 September, and runs through 20 September at the International Centre of Culture and Arts.",
+    "uk": "Ювілейний фестиваль «20 років потому» відкривається сьогодні, 16 вересня, і триватиме до 20 вересня в Міжнародному центрі культури і мистецтв.",
+    "nl": "De jubileumeditie ‘20 jaar later’ opent vandaag, 16 september, en loopt tot en met 20 september in het Internationaal Centrum voor Cultuur en Kunst.",
+    "fr": "L’édition anniversaire « 20 ans plus tard » ouvre aujourd’hui, le 16 septembre, et se poursuit jusqu’au 20 septembre au Centre international de la culture et…",
+    "es": "La edición aniversario «20 años después» abre hoy, 16 de septiembre, y continúa hasta el 20 de septiembre en el Centro Internacional de Cultura y Artes.",
+    "de": "Die Jubiläumsausgabe „20 Jahre später“ eröffnet heute, am 16. September, und läuft bis zum 20. September im Internationalen Zentrum für Kultur und Kunst.",
+    "it": "L’edizione anniversario “20 anni dopo” apre oggi, 16 settembre, e prosegue fino al 20 settembre presso il Centro Internazionale della Cultura e delle Arti.",
+    "pl": "Jubileuszowa edycja „20 lat później” rozpoczyna się dziś, 16 września, i potrwa do 20 września w Międzynarodowym Centrum Kultury i Sztuki.",
+    "pt": "A edição de aniversário «20 anos depois» abre hoje, 16 de setembro, e decorre até 20 de setembro no Centro Internacional de Cultura e Artes.",
+    "cs": "Jubilejní ročník „20 let poté“ začíná dnes 16. září a potrvá do 20. září v Mezinárodním centru kultury a umění.",
+    "ro": "Ediția aniversară „20 de ani mai târziu” se deschide astăzi, 16 septembrie, și continuă până la 20 septembrie la Centrul Internațional de Cultură și Arte."
+  },
+  "card": {
+    "en": {
+      "label": "FESTIVAL NEWS",
+      "title": "GOGOLFEST returns<br><i>to Kyiv.</i>",
+      "alt": "Official GOGOLFEST 2026 festival collage"
+    },
+    "uk": {
+      "label": "НОВИНИ ФЕСТИВАЛЮ",
+      "title": "ГОГОЛЬФЕСТ повертається<br><i>до Києва.</i>",
+      "alt": "Офіційний фестивальний колаж ГОГОЛЬФЕСТ 2026"
+    },
+    "nl": {
+      "label": "FESTIVALNIEUWS",
+      "title": "GOGOLFEST keert terug<br><i>naar Kyiv.</i>",
+      "alt": "Officiële festivalcollage van GOGOLFEST 2026"
+    },
+    "fr": {
+      "label": "ACTUALITÉ DU FESTIVAL",
+      "title": "GOGOLFEST revient<br><i>à Kyiv.</i>",
+      "alt": "Collage officiel du festival GOGOLFEST 2026"
+    },
+    "es": {
+      "label": "NOTICIAS DEL FESTIVAL",
+      "title": "GOGOLFEST regresa<br><i>a Kyiv.</i>",
+      "alt": "Collage oficial del festival GOGOLFEST 2026"
+    },
+    "de": {
+      "label": "FESTIVALNEWS",
+      "title": "GOGOLFEST kehrt<br><i>nach Kyiv zurück.</i>",
+      "alt": "Offizielle Festivalcollage des GOGOLFEST 2026"
+    },
+    "it": {
+      "label": "NOTIZIE DAL FESTIVAL",
+      "title": "GOGOLFEST torna<br><i>a Kyiv.</i>",
+      "alt": "Collage ufficiale del festival GOGOLFEST 2026"
+    },
+    "pl": {
+      "label": "WIADOMOŚCI FESTIWALOWE",
+      "title": "GOGOLFEST wraca<br><i>do Kijowa.</i>",
+      "alt": "Oficjalny kolaż festiwalu GOGOLFEST 2026"
+    },
+    "pt": {
+      "label": "NOTÍCIAS DO FESTIVAL",
+      "title": "O GOGOLFEST regressa<br><i>a Kyiv.</i>",
+      "alt": "Colagem oficial do festival GOGOLFEST 2026"
+    },
+    "cs": {
+      "label": "FESTIVALOVÉ NOVINKY",
+      "title": "GOGOLFEST se vrací<br><i>do Kyjeva.</i>",
+      "alt": "Oficiální festivalová koláž GOGOLFEST 2026"
+    },
+    "ro": {
+      "label": "ȘTIRI DE FESTIVAL",
+      "title": "GOGOLFEST revine<br><i>la Kyiv.</i>",
+      "alt": "Colajul oficial al festivalului GOGOLFEST 2026"
+    }
+  }
+}

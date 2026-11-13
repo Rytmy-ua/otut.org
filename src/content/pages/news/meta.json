@@ -1,0 +1,30 @@
+{
+  "route": "/news",
+  "bodyClass": "news-page",
+  "title": {
+    "en": "News — OTUT",
+    "uk": "Новини — OTUT",
+    "nl": "Nieuws — OTUT",
+    "fr": "Actualités — OTUT",
+    "es": "Noticias — OTUT",
+    "de": "Neuigkeiten — OTUT",
+    "it": "Notizie — OTUT",
+    "pl": "Aktualności — OTUT",
+    "pt": "Notícias — OTUT",
+    "cs": "Novinky — OTUT",
+    "ro": "Noutăți — OTUT"
+  },
+  "description": {
+    "en": "Choose a headline to open the full story.",
+    "uk": "Оберіть заголовок, щоб відкрити повну новину.",
+    "nl": "Kies een titel om het volledige verhaal te openen.",
+    "fr": "Choisissez un titre pour ouvrir l’article complet.",
+    "es": "Elige un titular para abrir la noticia completa.",
+    "de": "Wählen Sie eine Überschrift, um den vollständigen Beitrag zu öffnen.",
+    "it": "Scegli un titolo per aprire la notizia completa.",
+    "pl": "Wybierz tytuł, aby otworzyć pełną wiadomość.",
+    "pt": "Escolha um título para abrir a notícia completa.",
+    "cs": "Vyberte titulek a otevřete celý článek.",
+    "ro": "Alege un titlu pentru a deschide articolul complet."
+  }
+}

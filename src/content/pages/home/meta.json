@@ -1,0 +1,30 @@
+{
+  "route": "/",
+  "bodyClass": "",
+  "title": {
+    "en": "OTUT — Joy of Creation",
+    "uk": "OTUT — Joy of Creation",
+    "nl": "OTUT — Joy of Creation",
+    "fr": "OTUT — Joy of Creation",
+    "es": "OTUT — Joy of Creation",
+    "de": "OTUT — Joy of Creation",
+    "it": "OTUT — Joy of Creation",
+    "pl": "OTUT — Joy of Creation",
+    "pt": "OTUT — Joy of Creation",
+    "cs": "OTUT — Joy of Creation",
+    "ro": "OTUT — Joy of Creation"
+  },
+  "description": {
+    "en": "We turn creative ideas into projects, partnerships and real-world outcomes.",
+    "uk": "Ми перетворюємо творчі ідеї на проєкти, партнерства й реальні результати.",
+    "nl": "We zetten creatieve ideeën om in projecten, partnerschappen en tastbare resultaten.",
+    "fr": "Nous transformons les idées créatives en projets, partenariats et résultats concrets.",
+    "es": "Convertimos ideas creativas en proyectos, alianzas y resultados concretos.",
+    "de": "Wir verwandeln kreative Ideen in Projekte, Partnerschaften und konkrete Ergebnisse.",
+    "it": "Trasformiamo idee creative in progetti, partnership e risultati concreti.",
+    "pl": "Przekształcamy kreatywne pomysły w projekty, partnerstwa i konkretne rezultaty.",
+    "pt": "Transformamos ideias criativas em projetos, parcerias e resultados concretos.",
+    "cs": "Tvůrčí nápady proměňujeme v projekty, partnerství a konkrétní výsledky.",
+    "ro": "Transformăm ideile creative în proiecte, parteneriate și rezultate concrete."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-28",
+  "variant": "paper",
+  "cover": {
+    "src": "/assets/music-in-care/participation.webp",
+    "width": 1536,
+    "height": 1024,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "Music in paediatric palliative care: a new OTUT project",
+    "uk": "Музика в дитячому паліативному догляді: новий проєкт OTUT",
+    "nl": "Muziek in de kinderpalliatieve zorg: een nieuw project van OTUT",
+    "fr": "La musique dans les soins palliatifs pédiatriques : un nouveau projet d’OTUT",
+    "es": "Música en los cuidados paliativos pediátricos: un nuevo proyecto de OTUT",
+    "de": "Musik in der Kinderpalliativversorgung: ein neues Projekt von OTUT",
+    "it": "La musica nelle cure palliative pediatriche: un nuovo progetto OTUT",
+    "pl": "Muzyka w pediatrycznej opiece paliatywnej: nowy projekt OTUT",
+    "pt": "Música nos cuidados paliativos pediátricos: um novo projeto da OTUT",
+    "cs": "Hudba v dětské paliativní péči: nový projekt OTUT",
+    "ro": "Muzica în îngrijirea paliativă pediatrică: un nou proiect OTUT"
+  },
+  "description": {
+    "en": "OTUT is beginning work on Music in Care for Ukraine. The project aims to develop practical guidance on using music, voice and gentle rhythm in the everyday…",
+    "uk": "OTUT починає роботу над Music in Care for Ukraine — «Музика в догляді для України». Мета проєкту — розробити практичні рекомендації з використання музики,…",
+    "nl": "OTUT begint met Music in Care for Ukraine — ‘Muziek in de zorg voor Oekraïne’. Het project heeft als doel praktische richtlijnen te ontwikkelen voor het…",
+    "fr": "OTUT commence à travailler sur Music in Care for Ukraine — « La musique dans les soins pour l’Ukraine ». Le projet vise à élaborer des recommandations…",
+    "es": "OTUT comienza a trabajar en Music in Care for Ukraine — «Música en los cuidados para Ucrania». El proyecto tiene como objetivo desarrollar orientaciones…",
+    "de": "OTUT beginnt mit der Arbeit an Music in Care for Ukraine — „Musik in der Betreuung für die Ukraine“. Ziel des Projekts ist es, praktische Empfehlungen für den…",
+    "it": "OTUT inizia a lavorare a Music in Care for Ukraine — «La musica nell’assistenza per l’Ucraina». Il progetto mira a sviluppare indicazioni pratiche sull’uso…",
+    "pl": "OTUT rozpoczyna pracę nad Music in Care for Ukraine — „Muzyka w opiece dla Ukrainy”. Celem projektu jest opracowanie praktycznych wskazówek dotyczących…",
+    "pt": "A OTUT começa a trabalhar no Music in Care for Ukraine — «Música nos cuidados para a Ucrânia». O projeto tem como objetivo desenvolver orientações práticas…",
+    "cs": "OTUT začíná pracovat na Music in Care for Ukraine — „Hudba v péči pro Ukrajinu“. Cílem projektu je vytvořit praktická doporučení pro využití hudby, hlasu a…",
+    "ro": "OTUT începe să lucreze la Music in Care for Ukraine — «Muzica în îngrijire pentru Ucraina». Proiectul urmărește elaborarea unor recomandări practice pentru…"
+  },
+  "card": {
+    "en": {
+      "label": "OTUT PROJECTS",
+      "title": "Music in paediatric palliative care: a new OTUT project",
+      "alt": "Conceptual illustration: a child’s hand chooses a wooden sound object beside an adult’s open palm."
+    },
+    "uk": {
+      "label": "ПРОЄКТИ OTUT",
+      "title": "Музика в дитячому паліативному догляді: новий проєкт OTUT",
+      "alt": "Концептуальна ілюстрація: дитяча рука обирає дерев’яний звуковий предмет, поруч відкрита долоня дорослого."
+    },
+    "nl": {
+      "label": "OTUT-PROJECTEN",
+      "title": "Muziek in de kinderpalliatieve zorg: een nieuw project van OTUT",
+      "alt": "Conceptuele illustratie: een kinderhand kiest een houten klankvoorwerp naast de open handpalm van een volwassene."
+    },
+    "fr": {
+      "label": "PROJETS OTUT",
+      "title": "La musique dans les soins palliatifs pédiatriques : un nouveau projet d’OTUT",
+      "alt": "Illustration conceptuelle : une main d’enfant choisit un objet sonore en bois, à côté de la paume ouverte d’un adulte."
+    },
+    "es": {
+      "label": "PROYECTOS OTUT",
+      "title": "Música en los cuidados paliativos pediátricos: un nuevo proyecto de OTUT",
+      "alt": "Ilustración conceptual: la mano de un niño elige un objeto sonoro de madera junto a la palma abierta de una persona adulta."
+    },
+    "de": {
+      "label": "OTUT-PROJEKTE",
+      "title": "Musik in der Kinderpalliativversorgung: ein neues Projekt von OTUT",
+      "alt": "Konzeptillustration: Eine Kinderhand wählt ein hölzernes Klangobjekt aus, daneben die offene Handfläche eines Erwachsenen."
+    },
+    "it": {
+      "label": "PROGETTI OTUT",
+      "title": "La musica nelle cure palliative pediatriche: un nuovo progetto OTUT",
+      "alt": "Illustrazione concettuale: la mano di un bambino sceglie un oggetto sonoro in legno accanto al palmo aperto di un adulto."
+    },
+    "pl": {
+      "label": "PROJEKTY OTUT",
+      "title": "Muzyka w pediatrycznej opiece paliatywnej: nowy projekt OTUT",
+      "alt": "Ilustracja koncepcyjna: dziecięca dłoń wybiera drewniany przedmiot dźwiękowy, obok otwarta dłoń osoby dorosłej."
+    },
+    "pt": {
+      "label": "PROJETOS OTUT",
+      "title": "Música nos cuidados paliativos pediátricos: um novo projeto da OTUT",
+      "alt": "Ilustração conceptual: a mão de uma criança escolhe um objeto sonoro de madeira junto à palma aberta de um adulto."
+    },
+    "cs": {
+      "label": "PROJEKTY OTUT",
+      "title": "Hudba v dětské paliativní péči: nový projekt OTUT",
+      "alt": "Koncepční ilustrace: dětská ruka si vybírá dřevěný zvukový předmět, vedle je otevřená dlaň dospělého."
+    },
+    "ro": {
+      "label": "PROIECTE OTUT",
+      "title": "Muzica în îngrijirea paliativă pediatrică: un nou proiect OTUT",
+      "alt": "Ilustrație conceptuală: mâna unui copil alege un obiect sonor din lemn, alături de palma deschisă a unui adult."
+    }
+  }
+}

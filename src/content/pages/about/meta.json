@@ -1,0 +1,30 @@
+{
+  "route": "/about",
+  "bodyClass": "about-page",
+  "title": {
+    "en": "About — OTUT",
+    "uk": "Про нас — OTUT",
+    "nl": "Over OTUT — OTUT",
+    "fr": "À propos — OTUT",
+    "es": "Sobre OTUT — OTUT",
+    "de": "Über OTUT — OTUT",
+    "it": "Chi siamo — OTUT",
+    "pl": "O OTUT — OTUT",
+    "pt": "Sobre a OTUT — OTUT",
+    "cs": "O OTUT — OTUT",
+    "ro": "Despre OTUT — OTUT"
+  },
+  "description": {
+    "en": "OTUT is an international platform for developing artistic and cultural projects — from the first impulse to a form that can meet the world.",
+    "uk": "OTUT — міжнародна платформа для розвитку мистецьких і культурних проєктів: від першого імпульсу до форми, здатної зустрітися зі світом.",
+    "nl": "OTUT is een internationaal platform voor de ontwikkeling van artistieke en culturele projecten — van de eerste impuls tot een vorm die de wereld kan ontmoeten.",
+    "fr": "OTUT est une plateforme internationale de développement de projets artistiques et culturels — de la première impulsion à une forme capable de rencontrer le…",
+    "es": "OTUT es una plataforma internacional para desarrollar proyectos artísticos y culturales — desde el primer impulso hasta una forma capaz de encontrarse con el…",
+    "de": "OTUT ist eine internationale Plattform zur Entwicklung künstlerischer und kultureller Projekte — vom ersten Impuls bis zu einer Form, die der Welt begegnen…",
+    "it": "OTUT è una piattaforma internazionale per lo sviluppo di progetti artistici e culturali — dal primo impulso a una forma capace di incontrare il mondo.",
+    "pl": "OTUT to międzynarodowa platforma rozwoju projektów artystycznych i kulturalnych — od pierwszego impulsu do formy, która może spotkać się ze światem.",
+    "pt": "A OTUT é uma plataforma internacional para o desenvolvimento de projetos artísticos e culturais — do primeiro impulso a uma forma capaz de encontrar o mundo.",
+    "cs": "OTUT je mezinárodní platforma pro rozvoj uměleckých a kulturních projektů — od prvního impulzu k formě, která se může setkat se světem.",
+    "ro": "OTUT este o platformă internațională pentru dezvoltarea proiectelor artistice și culturale — de la primul impuls la o formă care poate întâlni lumea."
+  }
+}

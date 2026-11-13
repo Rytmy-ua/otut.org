@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-03",
+  "variant": "coral",
+  "cover": {
+    "src": "/assets/news-marguerite-800x450.webp",
+    "width": 800,
+    "height": 450,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "Swiss theatre in Ukrainian at GOGOLFEST Pokrova",
+    "uk": "Швейцарський театр українською на GOGOLFEST Покрова",
+    "nl": "Zwitsers theater in het Oekraïens bij GOGOLFEST Pokrova",
+    "fr": "Du théâtre suisse en ukrainien à GOGOLFEST Pokrova",
+    "es": "Teatro suizo en ucraniano en GOGOLFEST Pokrova",
+    "de": "Schweizer Theater auf Ukrainisch beim GOGOLFEST Pokrova",
+    "it": "Teatro svizzero in ucraino al GOGOLFEST Pokrova",
+    "pl": "Szwajcarski teatr po ukraińsku na GOGOLFEST Pokrova",
+    "pt": "Teatro suíço em ucraniano no GOGOLFEST Pokrova",
+    "cs": "Švýcarské divadlo v ukrajinštině na GOGOLFEST Pokrova",
+    "ro": "Teatru elvețian în ucraineană la GOGOLFEST Pokrova"
+  },
+  "description": {
+    "en": "On 3 October 2026, Zaporizhzhia hosts the first Ukrainian-language performance of the solo show “Be My Marguerite!”.",
+    "uk": "3 жовтня 2026 року в Запоріжжі — перший показ українською моновистави «Be My Marguerite!» («Будь моєю Марґеріт!»).",
+    "nl": "Op 3 oktober 2026 vindt in Zaporizja de eerste Oekraïenstalige uitvoering van de solovoorstelling “Be My Marguerite!” plaats.",
+    "fr": "Le 3 octobre 2026, Zaporijjia accueille la première représentation en ukrainien du spectacle solo « Be My Marguerite! ».",
+    "es": "El 3 de octubre de 2026, Zaporiyia acoge la primera función en ucraniano del monólogo «Be My Marguerite!».",
+    "de": "Am 3. Oktober 2026 wird das Solostück „Be My Marguerite!“ in Saporischschja erstmals auf Ukrainisch aufgeführt.",
+    "it": "Il 3 ottobre 2026, Zaporizhzhia ospita la prima rappresentazione in ucraino dello spettacolo solista «Be My Marguerite!».",
+    "pl": "3 października 2026 roku w Zaporożu odbędzie się pierwszy pokaz monodramu „Be My Marguerite!” w języku ukraińskim.",
+    "pt": "A 3 de outubro de 2026, Zaporizhzhia recebe a primeira apresentação em ucraniano do espetáculo a solo «Be My Marguerite!».",
+    "cs": "Dne 3. října 2026 se v Záporoží uskuteční první ukrajinskojazyčné uvedení monodramatu „Be My Marguerite!“.",
+    "ro": "Pe 3 octombrie 2026, la Zaporijjea are loc prima reprezentație în ucraineană a spectacolului solo „Be My Marguerite!”."
+  },
+  "card": {
+    "en": {
+      "label": "GOGOLFEST POKROVA",
+      "title": "Swiss theatre in Ukrainian at GOGOLFEST Pokrova",
+      "alt": ""
+    },
+    "uk": {
+      "label": "GOGOLFEST ПОКРОВА",
+      "title": "Швейцарський театр українською на GOGOLFEST Покрова",
+      "alt": ""
+    },
+    "nl": {
+      "label": "GOGOLFEST POKROVA",
+      "title": "Zwitsers theater in het Oekraïens bij GOGOLFEST Pokrova",
+      "alt": ""
+    },
+    "fr": {
+      "label": "GOGOLFEST POKROVA",
+      "title": "Du théâtre suisse en ukrainien à GOGOLFEST Pokrova",
+      "alt": ""
+    },
+    "es": {
+      "label": "GOGOLFEST POKROVA",
+      "title": "Teatro suizo en ucraniano en GOGOLFEST Pokrova",
+      "alt": ""
+    },
+    "de": {
+      "label": "GOGOLFEST POKROVA",
+      "title": "Schweizer Theater auf Ukrainisch beim GOGOLFEST Pokrova",
+      "alt": ""
+    },
+    "it": {
+      "label": "GOGOLFEST POKROVA",
+      "title": "Teatro svizzero in ucraino al GOGOLFEST Pokrova",
+      "alt": ""
+    },
+    "pl": {
+      "label": "GOGOLFEST POKROVA",
+      "title": "Szwajcarski teatr po ukraińsku na GOGOLFEST Pokrova",
+      "alt": ""
+    },
+    "pt": {
+      "label": "GOGOLFEST POKROVA",
+      "title": "Teatro suíço em ucraniano no GOGOLFEST Pokrova",
+      "alt": ""
+    },
+    "cs": {
+      "label": "GOGOLFEST POKROVA",
+      "title": "Švýcarské divadlo v ukrajinštině na GOGOLFEST Pokrova",
+      "alt": ""
+    },
+    "ro": {
+      "label": "GOGOLFEST POKROVA",
+      "title": "Teatru elvețian în ucraineană la GOGOLFEST Pokrova",
+      "alt": ""
+    }
+  }
+}

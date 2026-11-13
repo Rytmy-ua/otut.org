@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-07",
+  "variant": "paper",
+  "cover": {
+    "src": "/assets/news-otut-live-800x450.webp",
+    "width": 800,
+    "height": 450,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "OTUT.org is live.",
+    "uk": "OTUT.org вже працює.",
+    "nl": "OTUT.org is live.",
+    "fr": "OTUT.org est en ligne.",
+    "es": "OTUT.org ya está online.",
+    "de": "OTUT.org ist online.",
+    "it": "OTUT.org è online.",
+    "pl": "OTUT.org już działa.",
+    "pt": "OTUT.org já está online.",
+    "cs": "OTUT.org je online.",
+    "ro": "OTUT.org este online."
+  },
+  "description": {
+    "en": "OTUT now has a public home for its ideas, projects and future collaborations. New work will be published here when it is ready.",
+    "uk": "Тепер OTUT має публічний дім для своїх ідей, проєктів і майбутніх співпраць. Нові роботи з’являтимуться тут, щойно будуть готові.",
+    "nl": "OTUT heeft nu een publieke thuisbasis voor ideeën, projecten en toekomstige samenwerkingen. Nieuw werk verschijnt hier zodra het klaar is.",
+    "fr": "OTUT dispose désormais d’un espace public pour ses idées, ses projets et ses futures collaborations. Les nouveaux travaux y seront publiés dès qu’ils seront…",
+    "es": "OTUT ya tiene un espacio público para sus ideas, proyectos y futuras colaboraciones. Los nuevos trabajos se publicarán aquí cuando estén listos.",
+    "de": "OTUT hat nun einen öffentlichen Ort für Ideen, Projekte und künftige Kooperationen. Neue Arbeiten werden hier veröffentlicht, sobald sie bereit sind.",
+    "it": "OTUT ha ora uno spazio pubblico per idee, progetti e collaborazioni future. I nuovi lavori saranno pubblicati qui quando saranno pronti.",
+    "pl": "OTUT ma teraz publiczne miejsce dla swoich pomysłów, projektów i przyszłych współprac. Nowe prace będą publikowane tutaj, gdy będą gotowe.",
+    "pt": "A OTUT tem agora um espaço público para as suas ideias, projetos e futuras colaborações. Novos trabalhos serão publicados aqui quando estiverem prontos.",
+    "cs": "OTUT má nyní veřejný prostor pro své nápady, projekty a budoucí spolupráce. Nové práce zde zveřejníme, jakmile budou připravené.",
+    "ro": "OTUT are acum un spațiu public pentru ideile, proiectele și viitoarele sale colaborări. Lucrările noi vor fi publicate aici atunci când sunt pregătite."
+  },
+  "card": {
+    "en": {
+      "label": "NEWS",
+      "title": "OTUT.org<br><i>is live.</i>",
+      "alt": "OTUT hand-drawn circle identity in a sunlit space"
+    },
+    "uk": {
+      "label": "НОВИНИ",
+      "title": "OTUT.org<br><i>вже працює.</i>",
+      "alt": "OTUT hand-drawn circle identity in a sunlit space"
+    },
+    "nl": {
+      "label": "NIEUWS",
+      "title": "OTUT.org<br><i>is live.</i>",
+      "alt": "OTUT hand-drawn circle identity in a sunlit space"
+    },
+    "fr": {
+      "label": "ACTUALITÉS",
+      "title": "OTUT.org<br><i>est en ligne.</i>",
+      "alt": "OTUT hand-drawn circle identity in a sunlit space"
+    },
+    "es": {
+      "label": "NOTICIAS",
+      "title": "OTUT.org<br><i>ya está online.</i>",
+      "alt": "OTUT hand-drawn circle identity in a sunlit space"
+    },
+    "de": {
+      "label": "NEWS",
+      "title": "OTUT.org<br><i>ist online.</i>",
+      "alt": "OTUT hand-drawn circle identity in a sunlit space"
+    },
+    "it": {
+      "label": "NOTIZIE",
+      "title": "OTUT.org<br><i>è online.</i>",
+      "alt": "OTUT hand-drawn circle identity in a sunlit space"
+    },
+    "pl": {
+      "label": "AKTUALNOŚCI",
+      "title": "OTUT.org<br><i>już działa.</i>",
+      "alt": "OTUT hand-drawn circle identity in a sunlit space"
+    },
+    "pt": {
+      "label": "NOTÍCIAS",
+      "title": "OTUT.org<br><i>já está online.</i>",
+      "alt": "OTUT hand-drawn circle identity in a sunlit space"
+    },
+    "cs": {
+      "label": "NOVINKY",
+      "title": "OTUT.org<br><i>je online.</i>",
+      "alt": "OTUT hand-drawn circle identity in a sunlit space"
+    },
+    "ro": {
+      "label": "ȘTIRI",
+      "title": "OTUT.org<br><i>este online.</i>",
+      "alt": "OTUT hand-drawn circle identity in a sunlit space"
+    }
+  }
+}

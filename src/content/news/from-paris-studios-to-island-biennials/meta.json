@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-26",
+  "variant": "olive",
+  "cover": {
+    "src": "/assets/news-paris-matsu-art-800x450.webp",
+    "width": 800,
+    "height": 450,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "From Paris studios to island biennials.",
+    "uk": "Від паризьких майстерень до острівного бієнале.",
+    "nl": "Van Parijse ateliers tot een eilandbiënnale.",
+    "fr": "Des ateliers parisiens à une biennale insulaire.",
+    "es": "De los estudios de París a una bienal insular.",
+    "de": "Von Pariser Ateliers zur Inselbiennale.",
+    "it": "Dagli atelier di Parigi a una biennale insulare.",
+    "pl": "Od paryskich pracowni po wyspiarskie biennale.",
+    "pt": "Dos ateliers de Paris a uma bienal insular.",
+    "cs": "Od pařížských ateliérů k ostrovnímu bienále.",
+    "ro": "De la atelierele din Paris la o bienală insulară."
+  },
+  "description": {
+    "en": "OTUT selected three current international routes for artists and cultural practitioners: a funded residency, a site-specific commission and an arts-based…",
+    "uk": "OTUT відібрав три актуальні міжнародні маршрути для митців і культурних практиків: фінансовану резиденцію, site-specific замовлення та мистецький тренінг про…",
+    "nl": "OTUT selecteerde drie actuele internationale routes voor kunstenaars en cultuurprofessionals: een gefinancierde residentie, een locatiespecifieke opdracht en…",
+    "fr": "OTUT a sélectionné trois parcours internationaux actuels pour les artistes et professionnels de la culture : une résidence financée, une commande in situ et…",
+    "es": "OTUT ha seleccionado tres rutas internacionales actuales para artistas y profesionales de la cultura: una residencia financiada, un encargo específico para un…",
+    "de": "OTUT hat drei aktuelle internationale Wege für Kunst- und Kulturschaffende ausgewählt: eine finanzierte Residenz, einen ortsspezifischen Auftrag und ein…",
+    "it": "OTUT ha selezionato tre percorsi internazionali attuali per artisti e professionisti della cultura: una residenza finanziata, una commissione site-specific e…",
+    "pl": "OTUT wybrał trzy aktualne międzynarodowe ścieżki dla artystów i praktyków kultury: finansowaną rezydencję, zamówienie site-specific oraz szkolenie artystyczne…",
+    "pt": "A OTUT selecionou três percursos internacionais atuais para artistas e profissionais da cultura: uma residência financiada, uma encomenda site-specific e uma…",
+    "cs": "OTUT vybral tři aktuální mezinárodní cesty pro umělce a kulturní pracovníky: financovanou rezidenci, site-specific zakázku a umělecké školení o migraci.",
+    "ro": "OTUT a selectat trei trasee internaționale actuale pentru artiști și profesioniști culturali: o rezidență finanțată, o comandă site-specific și un training…"
+  },
+  "card": {
+    "en": {
+      "label": "OPPORTUNITIES",
+      "title": "From Paris studios<br><i>to island biennials.</i>",
+      "alt": "Artists mapping new cultural routes between a studio, an island and a shared workshop"
+    },
+    "uk": {
+      "label": "МОЖЛИВОСТІ",
+      "title": "Від паризьких майстерень<br><i>до острівного бієнале.</i>",
+      "alt": "Митці прокладають нові культурні маршрути між майстернею, островом і спільною роботою"
+    },
+    "nl": {
+      "label": "KANSEN",
+      "title": "Van Parijse ateliers<br><i>tot een eilandbiënnale.</i>",
+      "alt": "Kunstenaars brengen nieuwe culturele routes in kaart tussen een atelier, een eiland en een gedeelde workshop"
+    },
+    "fr": {
+      "label": "OPPORTUNITÉS",
+      "title": "Des ateliers parisiens<br><i>à une biennale insulaire.</i>",
+      "alt": "Des artistes tracent de nouveaux parcours culturels entre un atelier, une île et un travail collectif"
+    },
+    "es": {
+      "label": "OPORTUNIDADES",
+      "title": "De los estudios de París<br><i>a una bienal insular.</i>",
+      "alt": "Artistas trazando nuevas rutas culturales entre un estudio, una isla y un taller compartido"
+    },
+    "de": {
+      "label": "MÖGLICHKEITEN",
+      "title": "Von Pariser Ateliers<br><i>zur Inselbiennale.</i>",
+      "alt": "Kunstschaffende kartieren neue kulturelle Wege zwischen Atelier, Insel und gemeinsamer Werkstatt"
+    },
+    "it": {
+      "label": "OPPORTUNITÀ",
+      "title": "Dagli atelier di Parigi<br><i>a una biennale insulare.</i>",
+      "alt": "Artisti tracciano nuovi percorsi culturali tra uno studio, un’isola e un laboratorio condiviso"
+    },
+    "pl": {
+      "label": "MOŻLIWOŚCI",
+      "title": "Od paryskich pracowni<br><i>po wyspiarskie biennale.</i>",
+      "alt": "Artyści wyznaczają nowe szlaki kultury między pracownią, wyspą i wspólnym warsztatem"
+    },
+    "pt": {
+      "label": "OPORTUNIDADES",
+      "title": "Dos ateliers de Paris<br><i>a uma bienal insular.</i>",
+      "alt": "Artistas traçam novos percursos culturais entre um atelier, uma ilha e uma oficina partilhada"
+    },
+    "cs": {
+      "label": "PŘÍLEŽITOSTI",
+      "title": "Od pařížských ateliérů<br><i>k ostrovnímu bienále.</i>",
+      "alt": "Umělci mapují nové kulturní cesty mezi ateliérem, ostrovem a společnou dílnou"
+    },
+    "ro": {
+      "label": "OPORTUNITĂȚI",
+      "title": "De la atelierele din Paris<br><i>la o bienală insulară.</i>",
+      "alt": "Artiști care trasează noi rute culturale între un atelier, o insulă și un spațiu de lucru comun"
+    }
+  }
+}

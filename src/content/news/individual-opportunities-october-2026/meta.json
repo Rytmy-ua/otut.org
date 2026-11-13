@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-02",
+  "variant": "sky",
+  "cover": {
+    "src": "/assets/news-individual-opportunities-800x450.webp",
+    "width": 800,
+    "height": 450,
+    "figureStyle": null,
+    "imgStyle": null
+  },
+  "title": {
+    "en": "10 opportunities for artists and researchers",
+    "uk": "10 можливостей для митців і дослідників",
+    "nl": "10 kansen voor kunstenaars en onderzoekers",
+    "fr": "10 opportunités pour les artistes et les chercheurs",
+    "es": "10 oportunidades para artistas e investigadores",
+    "de": "10 Möglichkeiten für Kunstschaffende und Forschende",
+    "it": "10 opportunità per artisti e ricercatori",
+    "pl": "10 możliwości dla artystów i badaczy",
+    "pt": "10 oportunidades para artistas e investigadores",
+    "cs": "10 příležitostí pro umělce a výzkumníky",
+    "ro": "10 oportunități pentru artiști și cercetători"
+  },
+  "description": {
+    "en": "Grants, residencies and professional trips you can apply for personally. Choose a programme — we can help you understand the next step.",
+    "uk": "Гранти, резиденції та професійні поїздки, на які можна подаватися особисто. Оберіть програму — допоможемо розібратися з наступним кроком.",
+    "nl": "Subsidies, residenties en werkreizen waarvoor je persoonlijk kunt aanvragen. Kies een programma — wij helpen je de volgende stap te begrijpen.",
+    "fr": "Bourses, résidences et voyages professionnels accessibles à titre individuel. Choisissez un programme : nous vous aidons à comprendre la prochaine étape.",
+    "es": "Becas, residencias y viajes profesionales a los que puedes presentarte personalmente. Elige un programa: te ayudamos a entender el siguiente paso.",
+    "de": "Förderungen, Residenzen und berufliche Reisen für Einzelpersonen. Wählen Sie ein Programm — wir helfen beim nächsten Schritt.",
+    "it": "Borse, residenze e viaggi professionali per cui candidarsi personalmente. Scegli un programma: ti aiutiamo a capire il prossimo passo.",
+    "pl": "Granty, rezydencje i podróże zawodowe, na które możesz zgłosić się osobiście. Wybierz program — pomożemy zrozumieć następny krok.",
+    "pt": "Bolsas, residências e viagens profissionais com candidatura pessoal. Escolha um programa — ajudamos a compreender o próximo passo.",
+    "cs": "Granty, rezidence a pracovní cesty, na které se můžete přihlásit osobně. Vyberte si program — pomůžeme vám pochopit další krok.",
+    "ro": "Granturi, rezidențe și deplasări profesionale pentru care poți aplica personal. Alege un program — te ajutăm să înțelegi pasul următor."
+  },
+  "card": {
+    "en": {
+      "label": "INDIVIDUAL OPPORTUNITIES",
+      "title": "10 opportunities for artists and researchers",
+      "alt": ""
+    },
+    "uk": {
+      "label": "ІНДИВІДУАЛЬНІ МОЖЛИВОСТІ",
+      "title": "10 можливостей для митців і дослідників",
+      "alt": ""
+    },
+    "nl": {
+      "label": "INDIVIDUELE MOGELIJKHEDEN",
+      "title": "10 kansen voor kunstenaars en onderzoekers",
+      "alt": ""
+    },
+    "fr": {
+      "label": "CANDIDATURES INDIVIDUELLES",
+      "title": "10 opportunités pour les artistes et les chercheurs",
+      "alt": ""
+    },
+    "es": {
+      "label": "SOLICITUDES INDIVIDUALES",
+      "title": "10 oportunidades para artistas e investigadores",
+      "alt": ""
+    },
+    "de": {
+      "label": "INDIVIDUELLE BEWERBUNGEN",
+      "title": "10 Möglichkeiten für Kunstschaffende und Forschende",
+      "alt": ""
+    },
+    "it": {
+      "label": "CANDIDATURE INDIVIDUALI",
+      "title": "10 opportunità per artisti e ricercatori",
+      "alt": ""
+    },
+    "pl": {
+      "label": "ZGŁOSZENIA INDYWIDUALNE",
+      "title": "10 możliwości dla artystów i badaczy",
+      "alt": ""
+    },
+    "pt": {
+      "label": "CANDIDATURAS INDIVIDUAIS",
+      "title": "10 oportunidades para artistas e investigadores",
+      "alt": ""
+    },
+    "cs": {
+      "label": "INDIVIDUÁLNÍ PŘIHLÁŠKY",
+      "title": "10 příležitostí pro umělce a výzkumníky",
+      "alt": ""
+    },
+    "ro": {
+      "label": "CANDIDATURI INDIVIDUALE",
+      "title": "10 oportunități pentru artiști și cercetători",
+      "alt": ""
+    }
+  }
+}
