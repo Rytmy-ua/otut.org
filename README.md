@@ -58,11 +58,10 @@ npm run build
 
 `npm run build` writes the site to `dist/` and fails if any internal link or image is broken.
 
-## Hosting (Cloudflare Pages)
+## Hosting
 
-- Build command: `npm run build`
-- Output directory: `dist`
-- Node version: 22
+GitHub Pages: `.github/workflows/deploy.yml` builds and publishes the site on every push to `main`.
+The domain is set in `public/CNAME`. Any static host also works (build `npm run build`, output `dist`, Node 22).
 
 Old links of the form `/about?lang=nl` are redirected in the browser to `/nl/about`.
 Analytics (GA4 `G-YLJZQ0LRZP`) loads only after the visitor accepts cookies.
